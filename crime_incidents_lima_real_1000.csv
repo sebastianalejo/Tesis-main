@@ -1,0 +1,1001 @@
+﻿crime_type,hour,day_of_week,district,latitude,longitude,historical_frequency,risk_level
+robo agravado,20,lunes,SAN MARTIN DE PORRES,-11.99769,-77.088301,1545,alto
+robo agravado,22,viernes,INDEPENDENCIA,-11.993418,-77.060006,900,alto
+robo agravado,20,sábado,COMAS,-11.972408,-77.057758,1233,alto
+robo agravado,22,domingo,EL AGUSTINO,-12.057835,-77.006656,1067,alto
+robo agravado,8,sábado,INDEPENDENCIA,-11.993943,-77.060414,900,alto
+robo agravado,21,lunes,LIMA,-12.048376,-77.039253,1467,alto
+robo agravado,22,viernes,LIMA,-12.058934,-77.036299,1467,alto
+robo agravado,0,sábado,LIMA,-12.049866,-77.039873,1467,alto
+robo agravado,22,domingo,LIMA,-12.049866,-77.039873,1467,alto
+robo agravado,19,sábado,SAN JUAN DE LURIGANCHO,-11.947627,-76.985078,2172,alto
+robo agravado,20,lunes,JESUS MARIA,-12.0885,-77.059927,408,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.155054,-76.958504,967,alto
+robo agravado,20,sábado,LURIGANCHO,-11.98105,-76.909826,817,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.166616,-76.921458,967,alto
+robo agravado,8,sábado,LIMA,-12.04572,-77.014356,1467,alto
+robo agravado,21,lunes,VILLA MARIA DEL TRIUNFO,-12.183001,-76.939564,967,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.180521,-76.939254,967,alto
+robo agravado,0,sábado,SANTA ROSA,-11.782564,-77.156923,200,alto
+robo agravado,22,domingo,SAN JUAN DE LURIGANCHO,-12.030531,-77.01453,2172,alto
+robo agravado,19,sábado,SAN JUAN DE LURIGANCHO,-12.023154,-76.998919,2172,alto
+robo agravado,20,lunes,VILLA EL SALVADOR,-12.203368,-76.949406,1033,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.175112,-76.931013,967,alto
+robo agravado,20,sábado,LOS OLIVOS,-12.012433,-77.079645,1000,alto
+robo agravado,22,domingo,ATE,-12.016096,-76.824888,1350,alto
+robo agravado,8,sábado,LIMA,-12.037866,-77.07765,1467,alto
+robo agravado,21,lunes,VILLA EL SALVADOR,-12.212105,-76.934219,1033,alto
+robo agravado,22,viernes,SAN JUAN DE LURIGANCHO,-11.963414,-76.979759,2172,alto
+robo agravado,0,sábado,SAN JUAN DE LURIGANCHO,-11.96529,-76.98627,2172,alto
+robo agravado,22,domingo,ATE,-12.050785,-76.95287,1350,alto
+robo agravado,19,sábado,SAN JUAN DE LURIGANCHO,-11.96529,-76.98627,2172,alto
+robo agravado,20,lunes,SAN JUAN DE LURIGANCHO,-11.975465,-76.999192,2172,alto
+robo agravado,22,viernes,SAN JUAN DE LURIGANCHO,-11.975247,-77.000028,2172,alto
+robo agravado,20,sábado,SAN JUAN DE LURIGANCHO,-11.969408,-76.992373,2172,alto
+robo agravado,22,domingo,CALLAO,-12.054548,-77.107031,1267,alto
+robo agravado,8,sábado,CARABAYLLO,-11.897238,-77.046706,767,alto
+robo agravado,21,lunes,PACHACAMAC,-12.129193,-76.871646,350,alto
+robo agravado,22,viernes,LOS OLIVOS,-11.969867,-77.064203,1000,alto
+robo agravado,0,sábado,PUNTA NEGRA,-12.367356,-76.794148,667,alto
+robo agravado,22,domingo,SANTA ANITA,-12.042927,-76.969475,758,alto
+robo agravado,19,sábado,MIRAFLORES,-12.125142,-77.034952,533,alto
+robo agravado,20,lunes,SANTIAGO DE SURCO,-12.109788,-76.974885,450,alto
+robo agravado,22,viernes,JESUS MARIA,-12.073282,-77.047663,408,alto
+robo agravado,20,sábado,SAN JUAN DE MIRAFLORES,-12.149163,-76.968217,667,alto
+robo agravado,22,domingo,CALLAO,-11.942222,-77.131213,1267,alto
+robo agravado,8,sábado,SANTIAGO DE SURCO,-12.080989,-76.976931,450,alto
+robo agravado,21,lunes,LIMA,-12.054464,-77.030231,1467,alto
+robo agravado,22,viernes,CALLAO,-12.056201,-77.142465,1267,alto
+robo agravado,0,sábado,LIMA,-12.045253,-77.019583,1467,alto
+robo agravado,22,domingo,CARABAYLLO,-11.895095,-77.031267,767,alto
+robo agravado,19,sábado,CARABAYLLO,-11.890733,-77.026681,767,alto
+robo agravado,20,lunes,RIMAC,-12.024357,-77.03256,1100,alto
+robo agravado,22,viernes,CHORRILLOS,-12.185079,-76.993367,933,alto
+robo agravado,20,sábado,LA VICTORIA,-12.068452,-77.014535,1429,alto
+robo agravado,22,domingo,CALLAO,-12.02929,-77.094414,1267,alto
+robo agravado,8,sábado,RIMAC,-12.018375,-77.032153,1100,alto
+robo agravado,21,lunes,CALLAO,-12.049348,-77.108756,1267,alto
+robo agravado,22,viernes,MIRAFLORES,-12.123099,-77.017351,533,alto
+robo agravado,0,sábado,LOS OLIVOS,-11.938633,-77.072394,1000,alto
+robo agravado,22,domingo,LIMA,-12.047688,-77.02172,1467,alto
+robo agravado,19,sábado,SAN JUAN DE LURIGANCHO,-12.023024,-76.974735,2172,alto
+robo agravado,20,lunes,SURQUILLO,-12.114619,-77.016338,700,alto
+robo agravado,22,viernes,LA VICTORIA,-12.076833,-77.010453,1429,alto
+robo agravado,20,sábado,LA VICTORIA,-12.06306,-77.012925,1429,alto
+robo agravado,22,domingo,INDEPENDENCIA,-11.997298,-77.055597,900,alto
+robo agravado,8,sábado,LA VICTORIA,-12.071073,-77.013788,1429,alto
+robo agravado,21,lunes,LA VICTORIA,-12.070164,-77.008818,1429,alto
+robo agravado,22,viernes,LA VICTORIA,-12.069204,-77.011523,1429,alto
+robo agravado,0,sábado,SAN MARTIN DE PORRES,-12.021017,-77.079176,1545,alto
+robo agravado,22,domingo,LA VICTORIA,-12.067844,-77.013651,1429,alto
+robo agravado,19,sábado,LIMA,-12.05753,-77.014833,1467,alto
+robo agravado,20,lunes,VILLA EL SALVADOR,-12.227355,-76.931462,1033,alto
+robo agravado,22,viernes,INDEPENDENCIA,-12.001467,-77.050729,900,alto
+robo agravado,20,sábado,ATE,-12.027946,-76.930684,1350,alto
+robo agravado,22,domingo,LOS OLIVOS,-11.93586,-77.072402,1000,alto
+robo agravado,8,sábado,SAN JUAN DE LURIGANCHO,-11.989877,-77.019418,2172,alto
+robo agravado,21,lunes,EL AGUSTINO,-12.054163,-77.004215,1067,alto
+robo agravado,22,viernes,CHORRILLOS,-12.198557,-77.025082,933,alto
+robo agravado,0,sábado,VILLA MARIA DEL TRIUNFO,-12.174973,-76.93084,967,alto
+robo agravado,22,domingo,SAN JUAN DE LURIGANCHO,-12.010608,-77.012619,2172,alto
+robo agravado,19,sábado,LIMA,-12.073115,-77.033332,1467,alto
+robo agravado,20,lunes,RIMAC,-12.018375,-77.032153,1100,alto
+robo agravado,22,viernes,LOS OLIVOS,-11.990384,-77.071598,1000,alto
+robo agravado,20,sábado,MIRAFLORES,-12.132621,-77.022572,533,alto
+robo agravado,22,domingo,LA VICTORIA,-12.062566,-77.012983,1429,alto
+robo agravado,8,sábado,LIMA,-12.047069,-77.031299,1467,alto
+robo agravado,21,lunes,COMAS,-11.963089,-77.054241,1233,alto
+robo agravado,22,viernes,LIMA,-12.057604,-77.028577,1467,alto
+robo agravado,0,sábado,VILLA MARIA DEL TRIUNFO,-12.176223,-76.932294,967,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.173566,-76.935997,967,alto
+robo agravado,19,sábado,VILLA MARIA DEL TRIUNFO,-12.176583,-76.931072,967,alto
+robo agravado,20,lunes,VILLA MARIA DEL TRIUNFO,-12.173111,-76.918027,967,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.170382,-76.917489,967,alto
+robo agravado,20,sábado,EL AGUSTINO,-12.031785,-77.004912,1067,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.172104,-76.934287,967,alto
+robo agravado,8,sábado,VILLA MARIA DEL TRIUNFO,-12.175111,-76.940314,967,alto
+robo agravado,21,lunes,VILLA MARIA DEL TRIUNFO,-12.167761,-76.919145,967,alto
+robo agravado,22,viernes,RIMAC,-12.035189,-77.037146,1100,alto
+robo agravado,0,sábado,RIMAC,-12.041482,-77.033042,1100,alto
+robo agravado,22,domingo,RIMAC,-12.026519,-77.024842,1100,alto
+robo agravado,19,sábado,RIMAC,-12.033703,-77.038909,1100,alto
+robo agravado,20,lunes,RIMAC,-12.037391,-77.035355,1100,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.17237,-76.934001,967,alto
+robo agravado,20,sábado,SAN MARTIN DE PORRES,-12.018446,-77.051592,1545,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.154156,-76.953645,967,alto
+robo agravado,8,sábado,RIMAC,-12.036189,-77.028462,1100,alto
+robo agravado,21,lunes,VILLA EL SALVADOR,-12.202352,-76.953563,1033,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.175012,-76.940248,967,alto
+robo agravado,0,sábado,VILLA MARIA DEL TRIUNFO,-12.175743,-76.931915,967,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.181858,-76.938547,967,alto
+robo agravado,19,sábado,VILLA MARIA DEL TRIUNFO,-12.1668,-76.916601,967,alto
+robo agravado,20,lunes,VILLA MARIA DEL TRIUNFO,-12.183614,-76.941102,967,alto
+robo agravado,22,viernes,VILLA MARIA DEL TRIUNFO,-12.17064,-76.92995,967,alto
+robo agravado,20,sábado,VILLA MARIA DEL TRIUNFO,-12.172631,-76.933339,967,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.180087,-76.938504,967,alto
+robo agravado,8,sábado,LIMA,-12.044559,-77.050701,1467,alto
+robo agravado,21,lunes,LIMA,-12.046055,-77.053144,1467,alto
+robo agravado,22,viernes,LIMA,-12.046324,-77.036104,1467,alto
+robo agravado,0,sábado,LIMA,-12.043501,-77.048123,1467,alto
+robo agravado,22,domingo,LIMA,-12.046978,-77.036415,1467,alto
+robo agravado,19,sábado,CHORRILLOS,-12.183322,-77.000128,933,alto
+robo agravado,20,lunes,RIMAC,-12.028231,-77.029726,1100,alto
+robo agravado,22,viernes,PACHACAMAC,-12.198999,-76.874447,350,alto
+robo agravado,20,sábado,PACHACAMAC,-12.226675,-76.859473,350,alto
+robo agravado,22,domingo,LIMA,-12.063935,-77.073331,1467,alto
+robo agravado,8,sábado,LIMA,-12.056026,-77.084423,1467,alto
+robo agravado,21,lunes,LIMA,-12.04964,-77.023704,1467,alto
+robo agravado,22,viernes,MIRAFLORES,-12.111379,-77.028036,533,alto
+robo agravado,0,sábado,INDEPENDENCIA,-12.001535,-77.055033,900,alto
+robo agravado,22,domingo,VILLA MARIA DEL TRIUNFO,-12.15557,-76.95842,967,alto
+robo agravado,19,sábado,VILLA MARIA DEL TRIUNFO,-12.165483,-76.947488,967,alto
+robo agravado,20,lunes,COMAS,-11.968342,-77.057106,1233,alto
+robo agravado,22,viernes,COMAS,-11.909437,-77.034042,1233,alto
+robo agravado,20,sábado,SANTIAGO DE SURCO,-12.106499,-76.978792,450,alto
+robo agravado,22,domingo,COMAS,-11.961607,-77.039702,1233,alto
+robo agravado,8,sábado,VILLA MARIA DEL TRIUNFO,-12.158235,-76.957589,967,alto
+robo agravado,21,lunes,VILLA MARIA DEL TRIUNFO,-12.176764,-76.938775,967,alto
+robo agravado,22,viernes,ATE,-12.063787,-76.987175,1350,alto
+robo agravado,0,sábado,INDEPENDENCIA,-12.001341,-77.054613,900,alto
+robo agravado,22,domingo,LA VICTORIA,-12.060045,-77.027068,1429,alto
+robo agravado,19,sábado,VILLA EL SALVADOR,-12.213711,-76.943499,1033,alto
+robo agravado,20,lunes,INDEPENDENCIA,-12.006493,-77.059368,900,alto
+robo agravado,22,viernes,CHORRILLOS,-12.201259,-77.010041,933,alto
+robo agravado,20,sábado,INDEPENDENCIA,-11.999301,-77.04938,900,alto
+robo agravado,22,domingo,ATE,-12.007573,-76.837924,1350,alto
+robo agravado,8,sábado,SAN JUAN DE MIRAFLORES,-12.162257,-76.965296,667,alto
+robo agravado,21,lunes,VILLA MARIA DEL TRIUNFO,-12.211889,-76.904197,967,alto
+robo agravado,22,viernes,SAN JUAN DE MIRAFLORES,-12.16023,-76.964023,667,alto
+robo agravado,0,sábado,SAN MARTIN DE PORRES,-12.020882,-77.05964,1545,alto
+robo agravado,22,domingo,SAN JUAN DE MIRAFLORES,-12.158536,-76.981599,667,alto
+robo agravado,19,sábado,SAN JUAN DE MIRAFLORES,-12.16058,-76.96679,667,alto
+robo a mano armada,23,sábado,LURIN,-12.265403,-76.873935,425,alto
+robo a mano armada,1,miércoles,VILLA EL SALVADOR,-12.205458,-76.952994,1033,alto
+robo a mano armada,22,viernes,LIMA,-12.052594,-77.037459,1467,alto
+robo a mano armada,23,viernes,PACHACAMAC,-12.210018,-76.863714,350,alto
+robo a mano armada,21,jueves,SAN BORJA,-12.109687,-76.99344,317,alto
+robo a mano armada,21,sábado,COMAS,-11.915278,-77.047822,1233,alto
+robo a mano armada,23,miércoles,COMAS,-11.934577,-77.045914,1233,alto
+robo a mano armada,21,viernes,VILLA MARIA DEL TRIUNFO,-12.175959,-76.932177,967,alto
+robo a mano armada,23,viernes,SANTIAGO DE SURCO,-12.086476,-76.978092,450,alto
+robo a mano armada,21,jueves,BREÑA,-12.052318,-77.043698,675,alto
+robo a mano armada,23,sábado,SAN JUAN DE LURIGANCHO,-11.961835,-76.986971,2172,alto
+robo a mano armada,1,miércoles,LIMA,-12.057604,-77.028577,1467,alto
+robo a mano armada,22,viernes,LIMA,-12.059146,-77.075452,1467,alto
+robo a mano armada,23,viernes,SAN MARTIN DE PORRES,-11.968464,-77.097534,1545,alto
+robo a mano armada,21,jueves,CHILCA,-12.513632,-76.730343,667,alto
+robo a mano armada,21,sábado,RIMAC,-12.030009,-77.029269,1100,alto
+robo a mano armada,23,miércoles,SAN LUIS,-12.072514,-77.00214,508,alto
+robo a mano armada,21,viernes,COMAS,-11.913376,-77.03273,1233,alto
+robo a mano armada,23,viernes,LIMA,-12.058562,-77.031987,1467,alto
+robo a mano armada,21,jueves,COMAS,-11.921734,-77.041922,1233,alto
+robo a mano armada,23,sábado,EL AGUSTINO,-12.033152,-77.005971,1067,alto
+robo a mano armada,1,miércoles,CARABAYLLO,-11.900964,-77.034263,767,alto
+robo a mano armada,22,viernes,LIMA,-12.054545,-77.034303,1467,alto
+robo a mano armada,23,viernes,CARABAYLLO,-11.897902,-77.030827,767,alto
+robo a mano armada,21,jueves,COMAS,-11.944361,-77.041333,1233,alto
+robo a mano armada,21,sábado,SANTIAGO DE SURCO,-12.167472,-76.988134,450,alto
+robo a mano armada,23,miércoles,SAN BARTOLO,-12.388223,-76.779337,667,alto
+robo a mano armada,21,viernes,LOS OLIVOS,-11.965345,-77.071538,1000,alto
+robo a mano armada,23,viernes,PUENTE PIEDRA,-11.839926,-77.103581,717,alto
+robo a mano armada,21,jueves,VILLA EL SALVADOR,-12.202352,-76.953563,1033,alto
+robo a mano armada,23,sábado,MAGDALENA DEL MAR,-12.095682,-77.073762,383,alto
+robo a mano armada,1,miércoles,VILLA EL SALVADOR,-12.196752,-76.962342,1033,alto
+robo a mano armada,22,viernes,SAN MARTIN DE PORRES,-11.981405,-77.097415,1545,alto
+robo a mano armada,23,viernes,VILLA MARIA DEL TRIUNFO,-12.207533,-76.925146,967,alto
+robo a mano armada,21,jueves,RIMAC,-12.038762,-77.038951,1100,alto
+robo a mano armada,21,sábado,RIMAC,-12.037663,-77.029165,1100,alto
+robo a mano armada,23,miércoles,RIMAC,-12.03373,-77.042562,1100,alto
+robo a mano armada,21,viernes,RIMAC,-12.038756,-77.031004,1100,alto
+robo a mano armada,23,viernes,LIMA,-12.046792,-77.045666,1467,alto
+robo a mano armada,21,jueves,LIMA,-12.043483,-77.039451,1467,alto
+robo a mano armada,23,sábado,SAN MARTIN DE PORRES,-11.944838,-77.089481,1545,alto
+robo a mano armada,1,miércoles,PUENTE PIEDRA,-11.840407,-77.089941,717,alto
+robo a mano armada,22,viernes,INDEPENDENCIA,-12.000361,-77.051524,900,alto
+robo a mano armada,23,viernes,CALLAO,-12.0658,-77.138891,1267,alto
+robo a mano armada,21,jueves,PACHACAMAC,-12.211597,-76.870836,350,alto
+robo a mano armada,21,sábado,COMAS,-11.901319,-77.039567,1233,alto
+robo a mano armada,23,miércoles,BARRANCO,-12.147849,-77.01794,342,alto
+robo a mano armada,21,viernes,SAN JUAN DE LURIGANCHO,-12.005147,-76.998337,2172,alto
+robo a mano armada,23,viernes,VILLA EL SALVADOR,-12.21747,-76.94312,1033,alto
+robo a mano armada,21,jueves,VILLA MARIA DEL TRIUNFO,-12.170956,-76.94276,967,alto
+robo a mano armada,23,sábado,SAN JUAN DE LURIGANCHO,-11.949602,-76.98294,2172,alto
+robo a mano armada,1,miércoles,CHILCA,-12.519758,-76.738272,667,alto
+robo a mano armada,22,viernes,COMAS,-11.939893,-77.064098,1233,alto
+robo a mano armada,23,viernes,SAN JUAN DE MIRAFLORES,-12.157992,-76.974656,667,alto
+robo a mano armada,21,jueves,SAN MARTIN DE PORRES,-11.968464,-77.097534,1545,alto
+robo a mano armada,21,sábado,PACHACAMAC,-12.205686,-76.850562,350,alto
+robo a mano armada,23,miércoles,SAN JUAN DE MIRAFLORES,-12.148515,-76.968301,667,alto
+robo a mano armada,21,viernes,LURIGANCHO,-11.943107,-76.698726,817,alto
+robo a mano armada,23,viernes,LIMA,-12.045933,-77.038442,1467,alto
+robo a mano armada,21,jueves,SAN MARTIN DE PORRES,-12.029037,-77.054048,1545,alto
+robo a mano armada,23,sábado,LOS OLIVOS,-11.975217,-77.065777,1000,alto
+robo a mano armada,1,miércoles,JESUS MARIA,-12.06491,-77.042262,408,alto
+robo a mano armada,22,viernes,CALLAO,-12.018852,-77.097402,1267,alto
+robo a mano armada,23,viernes,RIMAC,-12.018768,-77.034633,1100,alto
+robo a mano armada,21,jueves,SANTIAGO DE SURCO,-12.1123,-76.981077,450,alto
+robo a mano armada,21,sábado,COMAS,-11.922864,-77.034975,1233,alto
+robo a mano armada,23,miércoles,SAN JUAN DE MIRAFLORES,-12.183592,-76.965779,667,alto
+robo a mano armada,21,viernes,SAN BARTOLO,-12.388223,-76.779337,667,alto
+robo a mano armada,23,viernes,VILLA MARIA DEL TRIUNFO,-12.198647,-76.928668,967,alto
+robo a mano armada,21,jueves,LIMA,-12.051581,-77.065004,1467,alto
+robo a mano armada,23,sábado,BELLAVISTA,-12.057463,-77.09931,667,alto
+robo a mano armada,1,miércoles,COMAS,-11.913317,-77.016289,1233,alto
+robo a mano armada,22,viernes,SAN JUAN DE MIRAFLORES,-12.152538,-76.974177,667,alto
+robo a mano armada,23,viernes,MIRAFLORES,-12.121309,-77.024096,533,alto
+robo a mano armada,21,jueves,CALLAO,-12.034227,-77.096256,1267,alto
+robo a mano armada,21,sábado,RIMAC,-12.02348,-77.028543,1100,alto
+robo a mano armada,23,miércoles,CHORRILLOS,-12.175535,-77.025599,933,alto
+robo a mano armada,21,viernes,VILLA EL SALVADOR,-12.223614,-76.930584,1033,alto
+robo a mano armada,23,viernes,COMAS,-11.903188,-77.037871,1233,alto
+robo a mano armada,21,jueves,PUENTE PIEDRA,-11.843064,-77.101235,717,alto
+robo a mano armada,23,sábado,CARABAYLLO,-11.860523,-77.044363,767,alto
+robo a mano armada,1,miércoles,SANTIAGO DE SURCO,-12.114133,-76.975868,450,alto
+robo a mano armada,22,viernes,LA VICTORIA,-12.073359,-77.028664,1429,alto
+robo a mano armada,23,viernes,MIRAFLORES,-12.122681,-77.031302,533,alto
+robo a mano armada,21,jueves,SANTIAGO DE SURCO,-12.130222,-76.983287,450,alto
+robo a mano armada,21,sábado,BARRANCO,-12.141285,-77.025057,342,alto
+robo a mano armada,23,miércoles,CALLAO,-12.056364,-77.130073,1267,alto
+robo a mano armada,21,viernes,SAN MARTIN DE PORRES,-11.966581,-77.094532,1545,alto
+robo a mano armada,23,viernes,MAGDALENA DEL MAR,-12.088698,-77.062895,383,alto
+robo a mano armada,21,jueves,CARABAYLLO,-11.856531,-77.031113,767,alto
+robo a mano armada,23,sábado,INDEPENDENCIA,-11.981557,-77.0447,900,alto
+robo a mano armada,1,miércoles,SAN MARTIN DE PORRES,-11.958492,-77.084544,1545,alto
+robo a mano armada,22,viernes,LOS OLIVOS,-11.965443,-77.073082,1000,alto
+robo a mano armada,23,viernes,LA MOLINA,-12.109277,-76.938878,258,alto
+robo a mano armada,21,jueves,SAN MARTIN DE PORRES,-12.025709,-77.058296,1545,alto
+robo a mano armada,21,sábado,LOS OLIVOS,-11.988874,-77.080628,1000,alto
+robo a mano armada,23,miércoles,CARABAYLLO,-11.89593,-77.024535,767,alto
+robo a mano armada,21,viernes,EL AGUSTINO,-12.030205,-76.999312,1067,alto
+robo a mano armada,23,viernes,PACHACAMAC,-12.223,-76.863017,350,alto
+robo a mano armada,21,jueves,COMAS,-11.913422,-77.016136,1233,alto
+robo a mano armada,23,sábado,SAN MARTIN DE PORRES,-12.026445,-77.055929,1545,alto
+robo a mano armada,1,miércoles,BARRANCO,-12.153694,-77.022836,342,alto
+robo a mano armada,22,viernes,LIMA,-12.052324,-77.060588,1467,alto
+robo a mano armada,23,viernes,SAN MARTIN DE PORRES,-12.006204,-77.086136,1545,alto
+robo a mano armada,21,jueves,LA MOLINA,-12.065346,-76.945403,258,alto
+robo a mano armada,21,sábado,BELLAVISTA,-12.05963,-77.10118,667,alto
+robo a mano armada,23,miércoles,VILLA MARIA DEL TRIUNFO,-12.161175,-76.94326,967,alto
+robo a mano armada,21,viernes,COMAS,-11.951572,-77.069906,1233,alto
+robo a mano armada,23,viernes,RIMAC,-12.038762,-77.038951,1100,alto
+robo a mano armada,21,jueves,SANTA EULALIA,-11.918858,-76.667324,667,alto
+robo a mano armada,23,sábado,MAGDALENA VIEJA,-12.072125,-77.069262,667,alto
+robo a mano armada,1,miércoles,SAN LUIS,-12.061758,-76.997997,508,alto
+robo a mano armada,22,viernes,SAN MIGUEL,-12.07786,-77.09594,492,alto
+robo a mano armada,23,viernes,LOS OLIVOS,-11.994901,-77.07717,1000,alto
+robo a mano armada,21,jueves,CALLAO,-12.061026,-77.135241,1267,alto
+robo a mano armada,21,sábado,LURIGANCHO,-11.992066,-76.940283,817,alto
+robo a mano armada,23,miércoles,VILLA MARIA DEL TRIUNFO,-12.159291,-76.955869,967,alto
+robo a mano armada,21,viernes,LOS OLIVOS,-11.952092,-77.070982,1000,alto
+robo a mano armada,23,viernes,EL AGUSTINO,-12.05962,-77.004927,1067,alto
+robo a mano armada,21,jueves,MAGDALENA VIEJA,-12.08009,-77.064787,667,alto
+robo a mano armada,23,sábado,RIMAC,-12.033723,-77.031066,1100,alto
+robo a mano armada,1,miércoles,BREÑA,-12.061883,-77.05499,675,alto
+robo a mano armada,22,viernes,LOS OLIVOS,-11.976946,-77.081491,1000,alto
+robo a mano armada,23,viernes,BREÑA,-12.066975,-77.058464,675,alto
+robo a mano armada,21,jueves,CALLAO,-12.03477,-77.099418,1267,alto
+robo a mano armada,21,sábado,SAN MIGUEL,-12.066574,-77.097927,492,alto
+robo a mano armada,23,miércoles,COMAS,-11.898363,-77.040751,1233,alto
+robo a mano armada,21,viernes,LA VICTORIA,-12.067748,-77.013557,1429,alto
+robo a mano armada,23,viernes,CALLAO,-12.056597,-77.118956,1267,alto
+robo a mano armada,21,jueves,LOS OLIVOS,-11.984423,-77.075787,1000,alto
+robo agravado,19,lunes,LIMA,-12.056186,-77.04039,953,medio
+robo agravado,21,viernes,RIMAC,-12.039355,-77.033577,715,medio
+robo agravado,8,martes,RIMAC,-12.039415,-77.030353,715,medio
+robo agravado,18,jueves,RIMAC,-12.042531,-77.029416,715,medio
+robo agravado,20,sábado,MAGDALENA VIEJA,-12.069088,-77.06239,433,medio
+robo agravado,22,lunes,RIMAC,-12.037557,-77.027114,715,medio
+robo agravado,8,viernes,SAN JUAN DE MIRAFLORES,-12.176843,-76.965457,433,medio
+robo agravado,18,martes,RIMAC,-12.035179,-77.043359,715,medio
+robo agravado,20,jueves,SAN MARTIN DE PORRES,-12.02084,-77.053337,1004,medio
+robo agravado,10,sábado,VILLA MARIA DEL TRIUNFO,-12.180121,-76.938481,628,medio
+robo agravado,19,lunes,RIMAC,-12.041316,-77.029611,715,medio
+robo agravado,21,viernes,COMAS,-11.913457,-77.017572,802,medio
+robo agravado,8,martes,SAN MARTIN DE PORRES,-12.030829,-77.084711,1004,medio
+robo agravado,18,jueves,VILLA MARIA DEL TRIUNFO,-12.170481,-76.932427,628,medio
+robo agravado,20,sábado,RIMAC,-12.035947,-77.028358,715,medio
+robo agravado,22,lunes,RIMAC,-12.036447,-77.038371,715,medio
+robo agravado,8,viernes,VILLA MARIA DEL TRIUNFO,-12.177224,-76.939301,628,medio
+robo agravado,18,martes,VILLA MARIA DEL TRIUNFO,-12.180524,-76.94251,628,medio
+robo agravado,20,jueves,CHORRILLOS,-12.196089,-77.026517,607,medio
+robo agravado,10,sábado,LIMA,-12.055966,-77.080915,953,medio
+robo agravado,19,lunes,VENTANILLA,-11.82728,-77.134424,433,medio
+robo agravado,21,viernes,VILLA MARIA DEL TRIUNFO,-12.167645,-76.919635,628,medio
+robo agravado,8,martes,LIMA,-12.069522,-77.03541,953,medio
+robo agravado,18,jueves,VILLA MARIA DEL TRIUNFO,-12.170241,-76.916987,628,medio
+robo agravado,20,sábado,RIMAC,-12.03739,-77.035801,715,medio
+robo agravado,22,lunes,VILLA MARIA DEL TRIUNFO,-12.183848,-76.940962,628,medio
+robo agravado,8,viernes,RIMAC,-12.035071,-77.037154,715,medio
+robo agravado,18,martes,LIMA,-12.04383,-77.041324,953,medio
+robo agravado,20,jueves,VILLA MARIA DEL TRIUNFO,-12.162378,-76.92861,628,medio
+robo agravado,10,sábado,CHORRILLOS,-12.184314,-77.007432,607,medio
+robo agravado,19,lunes,LOS OLIVOS,-11.996062,-77.084437,650,medio
+robo agravado,21,viernes,SAN JUAN DE LURIGANCHO,-12.030596,-77.015157,1412,medio
+robo agravado,8,martes,SAN ISIDRO,-12.101273,-77.028974,173,medio
+robo agravado,18,jueves,SAN JUAN DE LURIGANCHO,-11.969819,-76.998734,1412,medio
+robo agravado,20,sábado,CARABAYLLO,-11.819317,-77.04553,498,medio
+robo agravado,22,lunes,LOS OLIVOS,-11.954329,-77.075985,650,medio
+robo agravado,8,viernes,SAN LUIS,-12.080225,-76.992136,330,medio
+robo agravado,18,martes,EL AGUSTINO,-12.031382,-76.999032,693,medio
+robo agravado,20,jueves,SAN MARTIN DE PORRES,-12.027143,-77.055935,1004,medio
+robo agravado,10,sábado,LA VICTORIA,-12.075731,-77.029063,929,medio
+robo agravado,19,lunes,LA VICTORIA,-12.068601,-77.029371,929,medio
+robo agravado,21,viernes,LA VICTORIA,-12.062053,-77.018156,929,medio
+robo agravado,8,martes,LA VICTORIA,-12.075834,-77.023129,929,medio
+robo agravado,18,jueves,SAN JUAN DE LURIGANCHO,-11.971415,-77.00238,1412,medio
+robo agravado,20,sábado,SAN JUAN DE LURIGANCHO,-11.983806,-77.001712,1412,medio
+robo agravado,22,lunes,COMAS,-11.96084,-77.054397,802,medio
+robo agravado,8,viernes,SAN JUAN DE LURIGANCHO,-11.978154,-76.999822,1412,medio
+robo agravado,18,martes,SAN JUAN DE LURIGANCHO,-11.975312,-76.994596,1412,medio
+robo agravado,20,jueves,SAN JUAN DE LURIGANCHO,-11.983017,-77.00377,1412,medio
+robo agravado,10,sábado,SAN JUAN DE LURIGANCHO,-11.975312,-76.994596,1412,medio
+robo agravado,19,lunes,SAN JUAN DE LURIGANCHO,-11.983654,-76.999573,1412,medio
+robo agravado,21,viernes,SAN JUAN DE LURIGANCHO,-11.963138,-76.982081,1412,medio
+robo agravado,8,martes,SAN JUAN DE LURIGANCHO,-11.970841,-76.992027,1412,medio
+robo agravado,18,jueves,CALLAO,-11.990776,-77.125696,823,medio
+robo agravado,20,sábado,SAN JUAN DE LURIGANCHO,-11.978775,-76.991817,1412,medio
+robo agravado,22,lunes,SAN JUAN DE LURIGANCHO,-11.95086,-76.99035,1412,medio
+robo agravado,8,viernes,SAN JUAN DE LURIGANCHO,-11.96529,-76.98627,1412,medio
+robo agravado,18,martes,SAN JUAN DE LURIGANCHO,-11.978775,-76.991817,1412,medio
+robo agravado,20,jueves,SAN LUIS,-12.062076,-77.001221,330,medio
+robo agravado,10,sábado,LIMA,-12.059938,-77.007717,953,medio
+robo agravado,19,lunes,SAN JUAN DE LURIGANCHO,-11.976958,-77.002085,1412,medio
+robo agravado,21,viernes,SAN JUAN DE LURIGANCHO,-11.983366,-77.013661,1412,medio
+robo agravado,8,martes,SAN JUAN DE LURIGANCHO,-11.979791,-77.001467,1412,medio
+robo agravado,18,jueves,SAN JUAN DE LURIGANCHO,-11.979836,-77.002669,1412,medio
+robo agravado,20,sábado,SAN JUAN DE LURIGANCHO,-11.984973,-77.006039,1412,medio
+robo agravado,22,lunes,SAN JUAN DE LURIGANCHO,-11.980125,-77.001039,1412,medio
+robo agravado,8,viernes,SAN JUAN DE LURIGANCHO,-12.027573,-77.010874,1412,medio
+robo agravado,18,martes,SAN JUAN DE LURIGANCHO,-11.976958,-77.002085,1412,medio
+robo agravado,20,jueves,SAN JUAN DE LURIGANCHO,-12.029034,-77.008497,1412,medio
+robo agravado,10,sábado,SAN JUAN DE LURIGANCHO,-11.979791,-77.001467,1412,medio
+robo agravado,19,lunes,LOS OLIVOS,-12.006996,-77.071122,650,medio
+robo agravado,21,viernes,SAN JUAN DE LURIGANCHO,-11.967128,-76.985068,1412,medio
+robo agravado,8,martes,SAN JUAN DE LURIGANCHO,-11.9631,-76.981927,1412,medio
+robo agravado,18,jueves,COMAS,-11.937296,-77.058037,802,medio
+robo agravado,20,sábado,SAN JUAN DE LURIGANCHO,-11.965139,-76.987444,1412,medio
+robo agravado,22,lunes,SAN JUAN DE LURIGANCHO,-11.986705,-76.975034,1412,medio
+robo agravado,8,viernes,PACHACAMAC,-12.094668,-76.884366,228,medio
+robo agravado,18,martes,LURIGANCHO,-11.93241,-76.691918,531,medio
+robo agravado,20,jueves,SAN JUAN DE LURIGANCHO,-11.963414,-76.979759,1412,medio
+robo agravado,10,sábado,SANTIAGO DE SURCO,-12.147207,-76.987545,293,medio
+robo agravado,19,lunes,CALLAO,-12.065546,-77.137732,823,medio
+robo agravado,21,viernes,VILLA EL SALVADOR,-12.190568,-76.950379,672,medio
+robo agravado,8,martes,LOS OLIVOS,-11.990692,-77.065267,650,medio
+robo agravado,18,jueves,LIMA,-12.054906,-77.013179,953,medio
+robo agravado,20,sábado,EL AGUSTINO,-12.054757,-77.00394,693,medio
+robo agravado,22,lunes,CHORRILLOS,-12.174331,-77.001677,607,medio
+robo agravado,8,viernes,SAN MARTIN DE PORRES,-12.025324,-77.056762,1004,medio
+robo agravado,18,martes,LA MOLINA,-12.079247,-76.965951,168,medio
+robo agravado,20,jueves,LA MOLINA,-12.069295,-76.957532,168,medio
+robo agravado,10,sábado,VILLA MARIA DEL TRIUNFO,-12.16501,-76.943297,628,medio
+robo agravado,19,lunes,CARABAYLLO,-11.896857,-77.034137,498,medio
+robo agravado,21,viernes,CALLAO,-11.991228,-77.126835,823,medio
+robo agravado,8,martes,LURIGANCHO,-11.98793,-76.898627,531,medio
+robo agravado,18,jueves,VILLA MARIA DEL TRIUNFO,-12.182517,-76.949984,628,medio
+robo agravado,20,sábado,LIMA,-12.041231,-77.069261,953,medio
+robo agravado,22,lunes,ATE,-12.031465,-76.931312,878,medio
+robo agravado,8,viernes,SAN MARTIN DE PORRES,-12.035422,-77.081883,1004,medio
+robo agravado,18,martes,CALLAO,-12.057669,-77.119241,823,medio
+robo agravado,20,jueves,LIMA,-12.053326,-77.034862,953,medio
+robo agravado,10,sábado,LIMA,-12.054464,-77.030231,953,medio
+robo agravado,19,lunes,LIMA,-12.052055,-77.030771,953,medio
+robo agravado,21,viernes,LIMA,-12.052331,-77.034823,953,medio
+robo agravado,8,martes,LIMA,-12.054207,-77.026528,953,medio
+robo agravado,18,jueves,LA VICTORIA,-12.058041,-77.020058,929,medio
+robo agravado,20,sábado,LIMA,-12.059405,-77.033449,953,medio
+robo agravado,22,lunes,LIMA,-12.056562,-77.031719,953,medio
+robo agravado,8,viernes,LIMA,-12.054853,-77.031274,953,medio
+robo agravado,18,martes,SAN JUAN DE LURIGANCHO,-12.017196,-76.999546,1412,medio
+robo agravado,20,jueves,CARABAYLLO,-11.887196,-77.018362,498,medio
+robo agravado,10,sábado,CARABAYLLO,-11.89548,-77.04321,498,medio
+hurto,10,martes,LIMA,-12.037964,-77.077328,513,bajo
+hurto,11,viernes,RIMAC,-12.038598,-77.032681,385,bajo
+hurto,7,martes,SAN MARTIN DE PORRES,-12.027467,-77.08679,541,bajo
+hurto,9,jueves,EL AGUSTINO,-12.03289,-77.005592,373,bajo
+hurto,13,sábado,MAGDALENA VIEJA,-12.082027,-77.065799,233,bajo
+hurto,8,martes,SAN BORJA,-12.106299,-77.000828,111,bajo
+hurto,10,viernes,SANTA ANITA,-12.046655,-76.981511,265,bajo
+hurto,12,martes,LIMA,-12.048286,-77.025884,513,bajo
+hurto,17,jueves,SAN JUAN DE LURIGANCHO,-11.997079,-77.009587,760,bajo
+hurto,8,sábado,SANTIAGO DE SURCO,-12.144386,-77.009968,157,bajo
+hurto,10,martes,LINCE,-12.090437,-77.027121,181,bajo
+hurto,11,viernes,SAN JUAN DE LURIGANCHO,-11.979858,-77.01193,760,bajo
+hurto,7,martes,LIMA,-12.056474,-77.074926,513,bajo
+hurto,9,jueves,SAN JUAN DE LURIGANCHO,-11.974548,-76.991482,760,bajo
+hurto,13,sábado,MIRAFLORES,-12.111789,-77.030324,187,bajo
+hurto,8,martes,PUENTE PIEDRA,-11.848861,-77.109138,251,bajo
+hurto,10,viernes,SAN LUIS,-12.063269,-77.000022,178,bajo
+hurto,12,martes,PUENTE PIEDRA,-11.846506,-77.093117,251,bajo
+hurto,17,jueves,SAN LUIS,-12.063303,-77.000103,178,bajo
+hurto,8,sábado,PUENTE PIEDRA,-11.853831,-77.089307,251,bajo
+hurto,10,martes,LA VICTORIA,-12.062084,-77.00711,500,bajo
+hurto,11,viernes,LIMA,-12.053438,-77.073775,513,bajo
+hurto,7,martes,SURQUILLO,-12.109577,-77.011571,245,bajo
+hurto,9,jueves,VILLA MARIA DEL TRIUNFO,-12.171214,-76.945663,338,bajo
+hurto,13,sábado,SAN LUIS,-12.07406,-77.001508,178,bajo
+hurto,8,martes,CARABAYLLO,-11.852056,-77.033711,268,bajo
+hurto,10,viernes,CALLAO,-12.047111,-77.109554,443,bajo
+hurto,12,martes,SAN BORJA,-12.108781,-77.002866,111,bajo
+hurto,17,jueves,LINCE,-12.083847,-77.032634,181,bajo
+hurto,8,sábado,LURIGANCHO,-11.963962,-76.74607,286,bajo
+hurto,10,martes,SANTIAGO DE SURCO,-12.142466,-77.009002,157,bajo
+hurto,11,viernes,LIMA,-12.041699,-77.038602,513,bajo
+hurto,7,martes,CARABAYLLO,-11.831236,-77.06447,268,bajo
+hurto,9,jueves,COMAS,-11.914269,-77.029262,432,bajo
+hurto,13,sábado,SANTIAGO DE SURCO,-12.144515,-77.005381,157,bajo
+hurto,8,martes,LURIGANCHO,-11.963962,-76.74607,286,bajo
+hurto,10,viernes,BELLAVISTA,-12.054061,-77.0935,233,bajo
+hurto,12,martes,SAN BORJA,-12.092943,-76.990564,111,bajo
+hurto,17,jueves,SAN LUIS,-12.062245,-77.000122,178,bajo
+hurto,8,sábado,LA MOLINA,-12.077159,-76.917941,90,bajo
+hurto,10,martes,SAN JUAN DE LURIGANCHO,-11.954165,-76.986234,760,bajo
+hurto,11,viernes,LA VICTORIA,-12.063744,-77.033506,500,bajo
+hurto,7,martes,LIMA,-12.05158,-77.035537,513,bajo
+hurto,9,jueves,LIMA,-12.049002,-77.06085,513,bajo
+hurto,13,sábado,EL AGUSTINO,-12.029417,-76.994785,373,bajo
+hurto,8,martes,LA VICTORIA,-12.059495,-77.02754,500,bajo
+hurto,10,viernes,EL AGUSTINO,-12.033818,-77.003484,373,bajo
+hurto,12,martes,ATE,-12.013407,-76.825021,473,bajo
+hurto,17,jueves,LA VICTORIA,-12.072797,-77.004615,500,bajo
+hurto,8,sábado,RIMAC,-12.036408,-77.037192,385,bajo
+hurto,10,martes,PUENTE PIEDRA,-11.82854,-77.103987,251,bajo
+hurto,11,viernes,SAN JUAN DE LURIGANCHO,-12.000044,-77.009416,760,bajo
+hurto,7,martes,LIMA,-12.057813,-77.067768,513,bajo
+hurto,9,jueves,SAN JUAN DE LURIGANCHO,-12.027615,-77.015392,760,bajo
+hurto,13,sábado,SANTIAGO DE SURCO,-12.107349,-76.966218,157,bajo
+hurto,8,martes,SANTIAGO DE SURCO,-12.160063,-76.99538,157,bajo
+hurto,10,viernes,SAN JUAN DE LURIGANCHO,-12.007557,-76.992149,760,bajo
+hurto,12,martes,SAN JUAN DE LURIGANCHO,-12.007226,-77.007092,760,bajo
+hurto,17,jueves,LIMA,-12.057452,-77.025627,513,bajo
+hurto,8,sábado,SANTIAGO DE SURCO,-12.138374,-76.976221,157,bajo
+hurto,10,martes,SAN JUAN DE LURIGANCHO,-11.96529,-76.98627,760,bajo
+hurto,11,viernes,LA VICTORIA,-12.07237,-77.014363,500,bajo
+hurto,7,martes,SAN JUAN DE LURIGANCHO,-11.947609,-76.985023,760,bajo
+hurto,9,jueves,SAN JUAN DE LURIGANCHO,-11.977588,-76.999159,760,bajo
+hurto,13,sábado,INDEPENDENCIA,-12.002529,-77.06138,315,bajo
+hurto,8,martes,COMAS,-11.955316,-77.059815,432,bajo
+hurto,10,viernes,CARABAYLLO,-11.880546,-77.039547,268,bajo
+hurto,12,martes,COMAS,-11.948463,-77.057913,432,bajo
+hurto,17,jueves,SANTA ANITA,-12.048156,-76.971058,265,bajo
+hurto,8,sábado,SAN MARTIN DE PORRES,-12.018969,-77.061712,541,bajo
+hurto,10,martes,VILLA EL SALVADOR,-12.228365,-76.92763,362,bajo
+hurto,11,viernes,LIMA,-12.05468,-77.034444,513,bajo
+hurto,7,martes,LIMA,-12.059568,-77.034849,513,bajo
+hurto,9,jueves,SANTIAGO DE SURCO,-12.136169,-77.002479,157,bajo
+hurto,13,sábado,LIMA,-12.04516,-77.060536,513,bajo
+hurto,8,martes,PUENTE PIEDRA,-11.868601,-77.07788,251,bajo
+hurto,10,viernes,LIMA,-12.056765,-77.031625,513,bajo
+hurto,12,martes,MIRAFLORES,-12.114601,-77.044286,187,bajo
+hurto,17,jueves,EL AGUSTINO,-12.049468,-76.996321,373,bajo
+hurto,8,sábado,SAN MARTIN DE PORRES,-12.030056,-77.060547,541,bajo
+hurto,10,martes,CALLAO,-12.017675,-77.108465,443,bajo
+hurto,11,viernes,LIMA,-12.048024,-77.05943,513,bajo
+hurto,7,martes,CALLAO,-12.033823,-77.096087,443,bajo
+hurto,9,jueves,VILLA EL SALVADOR,-12.206694,-76.937398,362,bajo
+hurto,13,sábado,SAN JUAN DE LURIGANCHO,-12.026188,-76.998247,760,bajo
+hurto,8,martes,INDEPENDENCIA,-11.994585,-77.056567,315,bajo
+hurto,10,viernes,SAN MIGUEL,-12.076126,-77.082524,172,bajo
+hurto,12,martes,SAN JUAN DE LURIGANCHO,-12.004914,-77.013637,760,bajo
+hurto,17,jueves,CALLAO,-12.042632,-77.100723,443,bajo
+hurto,8,sábado,VENTANILLA,-11.878273,-77.126587,233,bajo
+hurto,10,martes,VENTANILLA,-11.836499,-77.126834,233,bajo
+hurto,11,viernes,EL AGUSTINO,-12.050512,-77.001561,373,bajo
+hurto,7,martes,SANTA ANITA,-12.053161,-76.963948,265,bajo
+hurto,9,jueves,SAN MIGUEL,-12.065937,-77.095084,172,bajo
+hurto,13,sábado,LA VICTORIA,-12.06334,-77.022692,500,bajo
+hurto,8,martes,SAN JUAN DE LURIGANCHO,-11.995115,-77.009211,760,bajo
+hurto,10,viernes,VILLA MARIA DEL TRIUNFO,-12.211683,-76.906338,338,bajo
+hurto,12,martes,SAN ISIDRO,-12.092685,-77.024539,93,bajo
+hurto,17,jueves,SANTIAGO DE SURCO,-12.160494,-76.988613,157,bajo
+hurto,8,sábado,ATE,-12.030093,-76.927751,473,bajo
+hurto,10,martes,ATE,-12.009633,-76.847898,473,bajo
+hurto,11,viernes,LURIGANCHO,-12.019612,-76.941497,286,bajo
+hurto,7,martes,EL AGUSTINO,-12.05286,-77.00667,373,bajo
+hurto,9,jueves,LA PUNTA,-12.068292,-77.159455,233,bajo
+hurto,13,sábado,ATE,-12.006537,-76.845821,473,bajo
+hurto,8,martes,CALLAO,-12.001388,-77.106351,443,bajo
+hurto,10,viernes,INDEPENDENCIA,-11.997455,-77.055673,315,bajo
+hurto,12,martes,SAN JUAN DE MIRAFLORES,-12.124882,-76.954046,233,bajo
+hurto,17,jueves,LA MOLINA,-12.092347,-76.952633,90,bajo
+hurto,8,sábado,LINCE,-12.080576,-77.034288,181,bajo
+hurto,10,martes,EL AGUSTINO,-12.052726,-77.001241,373,bajo
+hurto,11,viernes,LIMA,-12.05686,-77.014992,513,bajo
+hurto,7,martes,SAN JUAN DE MIRAFLORES,-12.134662,-76.960005,233,bajo
+hurto,9,jueves,SAN JUAN DE MIRAFLORES,-12.157572,-76.974672,233,bajo
+hurto,13,sábado,CHORRILLOS,-12.173578,-76.992288,327,bajo
+hurto,8,martes,LIMA,-12.051028,-77.019459,513,bajo
+hurto,10,viernes,MIRAFLORES,-12.123345,-77.018923,187,bajo
+hurto,12,martes,SANTIAGO DE SURCO,-12.102458,-76.975486,157,bajo
+hurto,17,jueves,SAN JUAN DE LURIGANCHO,-11.944944,-76.979647,760,bajo
+hurto,8,sábado,CHORRILLOS,-12.187437,-77.008777,327,bajo
+robo agravado,12,miércoles,LURIGANCHO,-11.929551,-76.69041,531,medio
+robo agravado,10,sábado,CALLAO,-12.012153,-77.096768,823,medio
+robo agravado,19,martes,LINCE,-12.085657,-77.033246,336,medio
+robo agravado,9,viernes,LINCE,-12.086561,-77.036352,336,medio
+robo agravado,13,jueves,ATE,-12.026506,-76.930079,878,medio
+robo agravado,8,miércoles,INDEPENDENCIA,-11.984989,-77.064312,585,medio
+robo agravado,12,sábado,BREÑA,-12.057555,-77.048389,439,medio
+robo agravado,17,martes,CARABAYLLO,-11.831236,-77.06447,498,medio
+robo agravado,19,viernes,PUENTE PIEDRA,-11.853831,-77.089307,466,medio
+robo agravado,9,jueves,PUENTE PIEDRA,-11.8405,-77.104229,466,medio
+robo agravado,12,miércoles,PUENTE PIEDRA,-11.845291,-77.083571,466,medio
+robo agravado,10,sábado,LA VICTORIA,-12.073714,-77.012036,929,medio
+robo agravado,19,martes,PUENTE PIEDRA,-11.85298,-77.092163,466,medio
+robo agravado,9,viernes,LIMA,-12.060091,-77.067417,953,medio
+robo agravado,13,jueves,PUENTE PIEDRA,-11.837585,-77.114313,466,medio
+robo agravado,8,miércoles,PUENTE PIEDRA,-11.843134,-77.099192,466,medio
+robo agravado,12,sábado,PUENTE PIEDRA,-11.856885,-77.086187,466,medio
+robo agravado,17,martes,PUENTE PIEDRA,-11.853831,-77.089307,466,medio
+robo agravado,19,viernes,PUENTE PIEDRA,-11.845116,-77.083572,466,medio
+robo agravado,9,jueves,LA VICTORIA,-12.081166,-77.009753,929,medio
+robo agravado,12,miércoles,PUENTE PIEDRA,-11.841502,-77.111065,466,medio
+robo agravado,10,sábado,LA VICTORIA,-12.072355,-77.012703,929,medio
+robo agravado,19,martes,PUENTE PIEDRA,-11.85401,-77.089418,466,medio
+robo agravado,9,viernes,CALLAO,-12.017132,-77.090567,823,medio
+robo agravado,13,jueves,PUENTE PIEDRA,-11.856885,-77.086187,466,medio
+robo agravado,8,miércoles,PUENTE PIEDRA,-11.827577,-77.116738,466,medio
+robo agravado,12,sábado,MAGDALENA VIEJA,-12.072398,-77.057191,433,medio
+robo agravado,17,martes,PUENTE PIEDRA,-11.856908,-77.087416,466,medio
+robo agravado,19,viernes,SANTIAGO DE SURCO,-12.110924,-76.985275,293,medio
+robo agravado,9,jueves,LA MOLINA,-12.073217,-76.950001,168,medio
+robo agravado,12,miércoles,ANCON,-11.731322,-77.133784,168,medio
+robo agravado,10,sábado,LIMA,-12.049452,-77.015736,953,medio
+robo agravado,19,martes,COMAS,-11.947445,-77.063713,802,medio
+robo agravado,9,viernes,INDEPENDENCIA,-12.000607,-77.056613,585,medio
+robo agravado,13,jueves,SAN JUAN DE LURIGANCHO,-12.019178,-76.98678,1412,medio
+robo agravado,8,miércoles,PUENTE PIEDRA,-11.856885,-77.086187,466,medio
+robo agravado,12,sábado,SAN JUAN DE LURIGANCHO,-12.002056,-77.003782,1412,medio
+robo agravado,17,martes,COMAS,-11.974193,-77.057844,802,medio
+robo agravado,19,viernes,LINCE,-12.086215,-77.033917,336,medio
+robo agravado,9,jueves,SAN BORJA,-12.110106,-76.979922,206,medio
+robo agravado,12,miércoles,CHORRILLOS,-12.180762,-77.006125,607,medio
+robo agravado,10,sábado,INDEPENDENCIA,-11.989347,-77.063845,585,medio
+robo agravado,19,martes,SANTIAGO DE SURCO,-12.088845,-76.962912,293,medio
+robo agravado,9,viernes,EL AGUSTINO,-12.043967,-76.987265,693,medio
+robo agravado,13,jueves,VILLA EL SALVADOR,-12.200812,-76.944204,672,medio
+robo agravado,8,miércoles,SANTIAGO DE SURCO,-12.109643,-76.975074,293,medio
+robo agravado,12,sábado,BREÑA,-12.055735,-77.056047,439,medio
+robo agravado,17,martes,SANTIAGO DE SURCO,-12.144086,-76.984311,293,medio
+robo agravado,19,viernes,SAN LUIS,-12.063864,-76.996324,330,medio
+robo agravado,9,jueves,LIMA,-12.079197,-77.032104,953,medio
+robo agravado,12,miércoles,VENTANILLA,-11.833051,-77.128757,433,medio
+robo agravado,10,sábado,CARABAYLLO,-11.887858,-77.035487,498,medio
+robo agravado,19,martes,LIMA,-12.071795,-77.036525,953,medio
+robo agravado,9,viernes,CALLAO,-11.97435,-77.124447,823,medio
+robo agravado,13,jueves,INDEPENDENCIA,-11.988749,-77.057051,585,medio
+robo agravado,8,miércoles,SAN JUAN DE LURIGANCHO,-11.946561,-76.983179,1412,medio
+robo agravado,12,sábado,LIMA,-12.05863,-77.035426,953,medio
+robo agravado,17,martes,SANTIAGO DE SURCO,-12.141937,-76.996661,293,medio
+robo agravado,19,viernes,LIMA,-12.054545,-77.034303,953,medio
+robo agravado,9,jueves,LIMA,-12.057284,-77.021255,953,medio
+robo agravado,12,miércoles,LIMA,-12.056498,-77.030153,953,medio
+robo agravado,10,sábado,LIMA,-12.054115,-77.035274,953,medio
+robo agravado,19,martes,LIMA,-12.057825,-77.029701,953,medio
+robo agravado,9,viernes,LIMA,-12.05212,-77.034141,953,medio
+robo agravado,13,jueves,LIMA,-12.051785,-77.031058,953,medio
+robo agravado,8,miércoles,LA VICTORIA,-12.06014,-77.027288,929,medio
+robo agravado,12,sábado,CHORRILLOS,-12.180776,-77.005964,607,medio
+robo agravado,17,martes,INDEPENDENCIA,-11.974332,-77.049459,585,medio
+robo agravado,19,viernes,MAGDALENA DEL MAR,-12.085638,-77.069118,249,medio
+robo agravado,9,jueves,SAN ISIDRO,-12.105447,-77.059107,173,medio
+robo agravado,12,miércoles,CHORRILLOS,-12.209534,-77.012338,607,medio
+robo agravado,10,sábado,ATE,-12.017862,-76.894982,878,medio
+robo agravado,19,martes,SANTIAGO DE SURCO,-12.107349,-76.966218,293,medio
+robo agravado,9,viernes,VILLA EL SALVADOR,-12.21251,-76.964482,672,medio
+robo agravado,13,jueves,LINCE,-12.08925,-77.02743,336,medio
+robo agravado,8,miércoles,SAN JUAN DE LURIGANCHO,-12.014125,-77.012465,1412,medio
+robo agravado,12,sábado,JESUS MARIA,-12.074169,-77.05001,265,medio
+robo agravado,17,martes,SAN JUAN DE LURIGANCHO,-12.007004,-76.998033,1412,medio
+robo agravado,19,viernes,ATE,-12.02942,-76.906606,878,medio
+robo agravado,9,jueves,CHORRILLOS,-12.176409,-76.999895,607,medio
+robo agravado,12,miércoles,COMAS,-11.970796,-77.057374,802,medio
+robo agravado,10,sábado,SANTIAGO DE SURCO,-12.13556,-76.998049,293,medio
+robo agravado,19,martes,RIMAC,-12.026967,-77.02609,715,medio
+robo agravado,9,viernes,SANTIAGO DE SURCO,-12.160576,-76.990817,293,medio
+robo agravado,13,jueves,COMAS,-11.936667,-77.044384,802,medio
+robo agravado,8,miércoles,SAN BORJA,-12.104358,-76.981179,206,medio
+robo agravado,12,sábado,BREÑA,-12.066126,-77.050308,439,medio
+robo agravado,17,martes,INDEPENDENCIA,-11.985603,-77.060182,585,medio
+robo agravado,19,viernes,MIRAFLORES,-12.127675,-77.013371,347,medio
+robo agravado,9,jueves,LOS OLIVOS,-11.969844,-77.065226,650,medio
+robo agravado,12,miércoles,VENTANILLA,-11.836567,-77.12684,433,medio
+robo agravado,10,sábado,LIMA,-12.055464,-77.012758,953,medio
+robo agravado,19,martes,INDEPENDENCIA,-11.993982,-77.055813,585,medio
+robo agravado,9,viernes,LIMA,-12.041628,-77.040154,953,medio
+robo agravado,13,jueves,RIMAC,-12.042103,-77.028616,715,medio
+robo agravado,8,miércoles,RIMAC,-12.02747,-77.03217,715,medio
+robo agravado,12,sábado,VILLA EL SALVADOR,-12.194849,-76.960705,672,medio
+robo agravado,17,martes,LIMA,-12.074271,-77.034975,953,medio
+robo agravado,19,viernes,BREÑA,-12.056366,-77.051411,439,medio
+robo agravado,9,jueves,SAN MARTIN DE PORRES,-11.943587,-77.086236,1004,medio
+hurto de vehiculo,1,sábado,VILLA MARIA DEL TRIUNFO,-12.177311,-76.939422,967,alto
+hurto de vehiculo,3,viernes,VILLA MARIA DEL TRIUNFO,-12.184447,-76.939846,967,alto
+hurto de vehiculo,22,domingo,LIMA,-12.059423,-77.064356,1467,alto
+hurto de vehiculo,0,sábado,VILLA MARIA DEL TRIUNFO,-12.173411,-76.936373,967,alto
+hurto de vehiculo,2,martes,LURIN,-12.265403,-76.873935,425,alto
+hurto de vehiculo,2,sábado,VILLA MARIA DEL TRIUNFO,-12.168313,-76.918874,967,alto
+hurto de vehiculo,4,viernes,LURIN,-12.302757,-76.850031,425,alto
+hurto de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-11.938998,-76.990983,2172,alto
+hurto de vehiculo,0,sábado,INDEPENDENCIA,-11.979893,-77.057799,900,alto
+hurto de vehiculo,3,martes,EL AGUSTINO,-12.047996,-77.000653,1067,alto
+hurto de vehiculo,1,sábado,CARABAYLLO,-11.890508,-77.026767,767,alto
+hurto de vehiculo,3,viernes,LA VICTORIA,-12.061942,-77.009908,1429,alto
+hurto de vehiculo,22,domingo,COMAS,-11.926556,-77.055957,1233,alto
+hurto de vehiculo,0,sábado,SANTA ANITA,-12.041104,-76.980255,758,alto
+hurto de vehiculo,2,martes,JESUS MARIA,-12.083841,-77.05807,408,alto
+hurto de vehiculo,2,sábado,VILLA MARIA DEL TRIUNFO,-12.192654,-76.934873,967,alto
+hurto de vehiculo,4,viernes,ATE,-12.063707,-76.965715,1350,alto
+hurto de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-12.009395,-77.013602,2172,alto
+hurto de vehiculo,0,sábado,LOS OLIVOS,-11.95696,-77.074586,1000,alto
+hurto de vehiculo,3,martes,COMAS,-11.900981,-77.039819,1233,alto
+hurto de vehiculo,1,sábado,SANTIAGO DE SURCO,-12.149773,-77.012509,450,alto
+hurto de vehiculo,3,viernes,BARRANCO,-12.137093,-77.024509,342,alto
+hurto de vehiculo,22,domingo,ATE,-12.03155,-76.92684,1350,alto
+hurto de vehiculo,0,sábado,LA MOLINA,-12.063261,-76.941003,258,alto
+hurto de vehiculo,2,martes,VILLA EL SALVADOR,-12.195327,-76.934725,1033,alto
+hurto de vehiculo,2,sábado,SAN JUAN DE LURIGANCHO,-12.026279,-77.009617,2172,alto
+hurto de vehiculo,4,viernes,SAN JUAN DE LURIGANCHO,-12.027471,-77.008501,2172,alto
+hurto de vehiculo,22,domingo,COMAS,-11.950214,-77.058835,1233,alto
+hurto de vehiculo,0,sábado,PUNTA HERMOSA,-12.328976,-76.824897,667,alto
+hurto de vehiculo,3,martes,SANTIAGO DE SURCO,-12.133736,-76.988691,450,alto
+hurto de vehiculo,1,sábado,SURQUILLO,-12.125969,-77.002627,700,alto
+hurto de vehiculo,3,viernes,VILLA MARIA DEL TRIUNFO,-12.196073,-76.923064,967,alto
+hurto de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-12.02165,-76.973631,2172,alto
+hurto de vehiculo,0,sábado,LOS OLIVOS,-11.949174,-77.0796,1000,alto
+hurto de vehiculo,2,martes,SAN JUAN DE LURIGANCHO,-11.938511,-76.964628,2172,alto
+hurto de vehiculo,2,sábado,SAN JUAN DE LURIGANCHO,-11.961296,-76.98236,2172,alto
+hurto de vehiculo,4,viernes,VILLA EL SALVADOR,-12.195327,-76.934725,1033,alto
+hurto de vehiculo,22,domingo,ATE,-12.059561,-76.99332,1350,alto
+hurto de vehiculo,0,sábado,LOS OLIVOS,-11.947602,-77.073963,1000,alto
+hurto de vehiculo,3,martes,ATE,-12.025324,-76.921179,1350,alto
+hurto de vehiculo,1,sábado,EL AGUSTINO,-12.03249,-77.003361,1067,alto
+hurto de vehiculo,3,viernes,ATE,-12.066358,-76.975882,1350,alto
+hurto de vehiculo,22,domingo,VILLA EL SALVADOR,-12.198096,-76.9657,1033,alto
+hurto de vehiculo,0,sábado,SAN JUAN DE MIRAFLORES,-12.184761,-76.977175,667,alto
+hurto de vehiculo,2,martes,SANTIAGO DE SURCO,-12.098277,-76.974381,450,alto
+hurto de vehiculo,2,sábado,RIMAC,-12.01568,-77.028342,1100,alto
+hurto de vehiculo,4,viernes,CHACLACAYO,-11.979721,-76.773774,283,alto
+hurto de vehiculo,22,domingo,ATE,-12.068292,-76.977972,1350,alto
+hurto de vehiculo,0,sábado,VILLA MARIA DEL TRIUNFO,-12.222388,-76.907047,967,alto
+hurto de vehiculo,3,martes,SAN MARTIN DE PORRES,-12.025981,-77.051096,1545,alto
+hurto de vehiculo,1,sábado,VILLA EL SALVADOR,-12.227292,-76.931572,1033,alto
+hurto de vehiculo,3,viernes,CALLAO,-11.981002,-77.114606,1267,alto
+hurto de vehiculo,22,domingo,COMAS,-11.953075,-77.051031,1233,alto
+hurto de vehiculo,0,sábado,VILLA MARIA DEL TRIUNFO,-12.174349,-76.947547,967,alto
+hurto de vehiculo,2,martes,SAN MARTIN DE PORRES,-11.989188,-77.113728,1545,alto
+hurto de vehiculo,2,sábado,MIRAFLORES,-12.119858,-77.038146,533,alto
+hurto de vehiculo,4,viernes,PUENTE PIEDRA,-11.853816,-77.089504,717,alto
+hurto de vehiculo,22,domingo,PUENTE PIEDRA,-11.851898,-77.085294,717,alto
+hurto de vehiculo,0,sábado,PUENTE PIEDRA,-11.85773,-77.091194,717,alto
+hurto de vehiculo,3,martes,PUENTE PIEDRA,-11.852592,-77.087772,717,alto
+hurto de vehiculo,1,sábado,PUENTE PIEDRA,-11.853816,-77.089504,717,alto
+hurto de vehiculo,3,viernes,PUENTE PIEDRA,-11.853816,-77.089504,717,alto
+hurto de vehiculo,22,domingo,PUENTE PIEDRA,-11.843272,-77.09917,717,alto
+hurto de vehiculo,0,sábado,ANCON,-11.709866,-77.125534,258,alto
+hurto de vehiculo,2,martes,ANCON,-11.710109,-77.125331,258,alto
+hurto de vehiculo,2,sábado,PUENTE PIEDRA,-11.840877,-77.089542,717,alto
+hurto de vehiculo,4,viernes,ANCON,-11.709974,-77.125506,258,alto
+hurto de vehiculo,22,domingo,CARABAYLLO,-11.893871,-77.041009,767,alto
+hurto de vehiculo,0,sábado,COMAS,-11.924369,-77.05467,1233,alto
+hurto de vehiculo,3,martes,CHORRILLOS,-12.184981,-77.013266,933,alto
+hurto de vehiculo,1,sábado,LURIGANCHO,-12.01578,-76.948908,817,alto
+hurto de vehiculo,3,viernes,LIMA,-12.03634,-77.06931,1467,alto
+hurto de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-12.014181,-76.999025,2172,alto
+hurto de vehiculo,0,sábado,SAN MARTIN DE PORRES,-11.98353,-77.097934,1545,alto
+hurto de vehiculo,2,martes,VILLA MARIA DEL TRIUNFO,-12.164107,-76.951278,967,alto
+hurto de vehiculo,2,sábado,SAN JUAN DE LURIGANCHO,-12.023808,-76.972473,2172,alto
+hurto de vehiculo,4,viernes,CALLAO,-12.013531,-77.099319,1267,alto
+hurto de vehiculo,22,domingo,VILLA MARIA DEL TRIUNFO,-12.157936,-76.934792,967,alto
+hurto de vehiculo,0,sábado,SANTIAGO DE SURCO,-12.147196,-76.987928,450,alto
+hurto de vehiculo,3,martes,SAN JUAN DE LURIGANCHO,-12.007334,-77.00842,2172,alto
+hurto de vehiculo,1,sábado,ATE,-12.044296,-76.935691,1350,alto
+hurto de vehiculo,3,viernes,VILLA EL SALVADOR,-12.209426,-76.94227,1033,alto
+hurto de vehiculo,22,domingo,SAN JUAN DE MIRAFLORES,-12.152943,-76.972174,667,alto
+hurto de vehiculo,0,sábado,SAN MARTIN DE PORRES,-12.012753,-77.053203,1545,alto
+hurto de vehiculo,2,martes,SAN MARTIN DE PORRES,-11.962253,-77.083971,1545,alto
+hurto de vehiculo,2,sábado,BREÑA,-12.053367,-77.049836,675,alto
+hurto de vehiculo,4,viernes,PUENTE PIEDRA,-11.864007,-77.075143,717,alto
+hurto de vehiculo,22,domingo,ATE,-12.019363,-76.877266,1350,alto
+hurto de vehiculo,0,sábado,LURIGANCHO,-11.976734,-76.907849,817,alto
+hurto de vehiculo,3,martes,LIMA,-12.047505,-77.017366,1467,alto
+hurto de vehiculo,1,sábado,SAN JUAN DE MIRAFLORES,-12.161164,-76.959494,667,alto
+hurto de vehiculo,3,viernes,SAN MARTIN DE PORRES,-12.006727,-77.082505,1545,alto
+hurto de vehiculo,22,domingo,LA VICTORIA,-12.077514,-77.018161,1429,alto
+hurto de vehiculo,0,sábado,LIMA,-12.055029,-77.024477,1467,alto
+hurto de vehiculo,2,martes,EL AGUSTINO,-12.04586,-77.002294,1067,alto
+hurto de vehiculo,2,sábado,LA VICTORIA,-12.066077,-76.998054,1429,alto
+hurto de vehiculo,4,viernes,BREÑA,-12.057756,-77.044559,675,alto
+hurto de vehiculo,22,domingo,COMAS,-11.957935,-77.057324,1233,alto
+hurto de vehiculo,0,sábado,SAN MARTIN DE PORRES,-12.01498,-77.085281,1545,alto
+hurto de vehiculo,3,martes,PUENTE PIEDRA,-11.864996,-77.074323,717,alto
+hurto de vehiculo,1,sábado,INDEPENDENCIA,-11.983867,-77.062633,900,alto
+hurto de vehiculo,3,viernes,INDEPENDENCIA,-11.981349,-77.061772,900,alto
+hurto de vehiculo,22,domingo,CHORRILLOS,-12.170814,-77.006566,933,alto
+hurto de vehiculo,0,sábado,INDEPENDENCIA,-11.978502,-77.053728,900,alto
+hurto de vehiculo,2,martes,COMAS,-11.959063,-77.058955,1233,alto
+hurto de vehiculo,2,sábado,CARABAYLLO,-11.887847,-77.025861,767,alto
+hurto de vehiculo,4,viernes,INDEPENDENCIA,-11.993418,-77.060006,900,alto
+hurto de vehiculo,22,domingo,VILLA MARIA DEL TRIUNFO,-12.158621,-76.937399,967,alto
+hurto de vehiculo,0,sábado,INDEPENDENCIA,-11.989295,-77.046785,900,alto
+hurto de vehiculo,3,martes,SAN JUAN DE MIRAFLORES,-12.179231,-76.982243,667,alto
+robo de vehiculo,20,viernes,VILLA MARIA DEL TRIUNFO,-12.176583,-76.931072,967,alto
+robo de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-11.95585,-76.990008,2172,alto
+robo de vehiculo,0,sábado,CARABAYLLO,-11.887847,-77.025861,767,alto
+robo de vehiculo,2,viernes,CARABAYLLO,-11.887196,-77.018362,767,alto
+robo de vehiculo,21,jueves,CARABAYLLO,-11.860209,-77.035608,767,alto
+robo de vehiculo,23,viernes,LA VICTORIA,-12.05954,-77.016792,1429,alto
+robo de vehiculo,20,domingo,SAN MARTIN DE PORRES,-11.999517,-77.102364,1545,alto
+robo de vehiculo,22,sábado,VILLA EL SALVADOR,-12.21589,-76.935094,1033,alto
+robo de vehiculo,0,viernes,LOS OLIVOS,-11.954345,-77.076205,1000,alto
+robo de vehiculo,20,jueves,SAN MARTIN DE PORRES,-11.951321,-77.092301,1545,alto
+robo de vehiculo,20,viernes,PUENTE PIEDRA,-11.865496,-77.076465,717,alto
+robo de vehiculo,22,domingo,COMAS,-11.928975,-77.067311,1233,alto
+robo de vehiculo,0,sábado,COMAS,-11.891491,-77.054732,1233,alto
+robo de vehiculo,2,viernes,EL AGUSTINO,-12.028321,-76.964692,1067,alto
+robo de vehiculo,21,jueves,SAN JUAN DE MIRAFLORES,-12.12556,-76.957687,667,alto
+robo de vehiculo,23,viernes,VILLA MARIA DEL TRIUNFO,-12.174906,-76.934992,967,alto
+robo de vehiculo,20,domingo,VILLA MARIA DEL TRIUNFO,-12.135051,-76.945473,967,alto
+robo de vehiculo,22,sábado,LURIN,-12.301112,-76.850827,425,alto
+robo de vehiculo,0,viernes,SAN MARTIN DE PORRES,-12.032449,-77.058915,1545,alto
+robo de vehiculo,20,jueves,SAN JUAN DE MIRAFLORES,-12.137299,-76.963574,667,alto
+robo de vehiculo,20,viernes,SAN JUAN DE LURIGANCHO,-11.963199,-77.006468,2172,alto
+robo de vehiculo,22,domingo,PUENTE PIEDRA,-11.864996,-77.074323,717,alto
+robo de vehiculo,0,sábado,SAN MARTIN DE PORRES,-11.963798,-77.102193,1545,alto
+robo de vehiculo,2,viernes,LIMA,-12.048024,-77.05943,1467,alto
+robo de vehiculo,21,jueves,SAN MARTIN DE PORRES,-12.033893,-77.089878,1545,alto
+robo de vehiculo,23,viernes,VILLA EL SALVADOR,-12.226484,-76.953829,1033,alto
+robo de vehiculo,20,domingo,SAN JUAN DE MIRAFLORES,-12.186185,-76.959738,667,alto
+robo de vehiculo,22,sábado,LOS OLIVOS,-11.936407,-77.076365,1000,alto
+robo de vehiculo,0,viernes,LOS OLIVOS,-11.970116,-77.068209,1000,alto
+robo de vehiculo,20,jueves,LIMA,-12.062563,-77.068757,1467,alto
+robo de vehiculo,20,viernes,COMAS,-11.91868,-77.052503,1233,alto
+robo de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-11.983139,-77.013712,2172,alto
+robo de vehiculo,0,sábado,SAN JUAN DE LURIGANCHO,-12.003699,-76.998884,2172,alto
+robo de vehiculo,2,viernes,LOS OLIVOS,-11.960043,-77.076137,1000,alto
+robo de vehiculo,21,jueves,CHORRILLOS,-12.207688,-77.012218,933,alto
+robo de vehiculo,23,viernes,SAN JUAN DE LURIGANCHO,-11.992665,-77.010089,2172,alto
+robo de vehiculo,20,domingo,COMAS,-11.914322,-77.057652,1233,alto
+robo de vehiculo,22,sábado,LURIGANCHO,-12.012435,-76.9429,817,alto
+robo de vehiculo,0,viernes,PUENTE PIEDRA,-11.897291,-77.0759,717,alto
+robo de vehiculo,20,jueves,LIMA,-12.049773,-77.061567,1467,alto
+robo de vehiculo,20,viernes,VILLA MARIA DEL TRIUNFO,-12.148182,-76.956291,967,alto
+robo de vehiculo,22,domingo,SANTIAGO DE SURCO,-12.144049,-76.991216,450,alto
+robo de vehiculo,0,sábado,CHORRILLOS,-12.201728,-76.988576,933,alto
+robo de vehiculo,2,viernes,CHORRILLOS,-12.190468,-76.987805,933,alto
+robo de vehiculo,21,jueves,SAN MARTIN DE PORRES,-12.032617,-77.085648,1545,alto
+robo de vehiculo,23,viernes,CHORRILLOS,-12.187545,-76.989234,933,alto
+robo de vehiculo,20,domingo,CHORRILLOS,-12.201237,-76.989089,933,alto
+robo de vehiculo,22,sábado,CHORRILLOS,-12.209623,-76.980294,933,alto
+robo de vehiculo,0,viernes,CHORRILLOS,-12.198627,-76.984093,933,alto
+robo de vehiculo,20,jueves,ATE,-12.045914,-76.930103,1350,alto
+robo de vehiculo,20,viernes,ATE,-12.037132,-76.937597,1350,alto
+robo de vehiculo,22,domingo,ATE,-12.052324,-76.928635,1350,alto
+robo de vehiculo,0,sábado,COMAS,-11.908477,-77.039745,1233,alto
+robo de vehiculo,2,viernes,CHACLACAYO,-11.976756,-76.764285,283,alto
+robo de vehiculo,21,jueves,SURQUILLO,-12.124462,-77.001324,700,alto
+robo de vehiculo,23,viernes,ANCON,-11.731393,-77.133692,258,alto
+robo de vehiculo,20,domingo,COMAS,-11.909336,-77.056491,1233,alto
+robo de vehiculo,22,sábado,COMAS,-11.932342,-77.067958,1233,alto
+robo de vehiculo,0,viernes,COMAS,-11.943846,-77.070503,1233,alto
+robo de vehiculo,20,jueves,COMAS,-11.91378,-77.055961,1233,alto
+robo de vehiculo,20,viernes,COMAS,-11.927331,-77.051787,1233,alto
+robo de vehiculo,22,domingo,COMAS,-11.955454,-77.061513,1233,alto
+robo de vehiculo,0,sábado,COMAS,-11.941924,-77.066241,1233,alto
+robo de vehiculo,2,viernes,COMAS,-11.952519,-77.065013,1233,alto
+robo de vehiculo,21,jueves,COMAS,-11.917475,-77.059634,1233,alto
+robo de vehiculo,23,viernes,LIMA,-12.054023,-77.074686,1467,alto
+robo de vehiculo,20,domingo,CARABAYLLO,-11.89002,-77.043645,767,alto
+robo de vehiculo,22,sábado,SAN JUAN DE LURIGANCHO,-11.978057,-76.994286,2172,alto
+robo de vehiculo,0,viernes,COMAS,-11.906176,-77.035623,1233,alto
+robo de vehiculo,20,jueves,VILLA EL SALVADOR,-12.226753,-76.953868,1033,alto
+robo de vehiculo,20,viernes,PUENTE PIEDRA,-11.87324,-77.057967,717,alto
+robo de vehiculo,22,domingo,SAN JUAN DE LURIGANCHO,-11.969332,-76.997607,2172,alto
+robo de vehiculo,0,sábado,COMAS,-11.941186,-77.048113,1233,alto
+robo de vehiculo,2,viernes,VILLA MARIA DEL TRIUNFO,-12.218094,-76.900361,967,alto
+robo de vehiculo,21,jueves,PUENTE PIEDRA,-11.87324,-77.057967,717,alto
+robo de vehiculo,23,viernes,PACHACAMAC,-12.166667,-76.866667,350,alto
+robo de vehiculo,20,domingo,COMAS,-11.945938,-77.060789,1233,alto
+robo de vehiculo,22,sábado,COMAS,-11.957628,-77.046157,1233,alto
+robo de vehiculo,0,viernes,SAN MARTIN DE PORRES,-12.01731,-77.073295,1545,alto
+robo de vehiculo,20,jueves,SAN MARTIN DE PORRES,-12.027394,-77.072453,1545,alto
+robo de vehiculo,20,viernes,SAN MARTIN DE PORRES,-12.026536,-77.076218,1545,alto
+robo de vehiculo,22,domingo,LOS OLIVOS,-11.955015,-77.084656,1000,alto
+robo de vehiculo,0,sábado,SAN JUAN DE LURIGANCHO,-12.023408,-76.97809,2172,alto
+robo de vehiculo,2,viernes,SAN MARTIN DE PORRES,-11.949369,-77.08848,1545,alto
+robo de vehiculo,21,jueves,VILLA EL SALVADOR,-12.199411,-76.941774,1033,alto
+robo de vehiculo,23,viernes,LIMA,-12.052831,-77.039702,1467,alto
+robo de vehiculo,20,domingo,SANTA ANITA,-12.047652,-76.956352,758,alto
+robo de vehiculo,22,sábado,CARABAYLLO,-11.892911,-77.028118,767,alto
+robo de vehiculo,0,viernes,PUENTE PIEDRA,-11.84833,-77.094133,717,alto
+robo de vehiculo,20,jueves,CHORRILLOS,-12.209904,-77.003678,933,alto
+robo de vehiculo,20,viernes,COMAS,-11.91055,-77.056273,1233,alto
+robo de vehiculo,22,domingo,SANTA ANITA,-12.037499,-76.948291,758,alto
+robo de vehiculo,0,sábado,CARABAYLLO,-11.877144,-77.01271,767,alto
+robo de vehiculo,2,viernes,VILLA MARIA DEL TRIUNFO,-12.196068,-76.933798,967,alto
+robo de vehiculo,21,jueves,COMAS,-11.951572,-77.069906,1233,alto
+robo de vehiculo,23,viernes,LIMA,-12.043119,-77.066151,1467,alto
+robo de vehiculo,20,domingo,LIMA,-12.037919,-77.077687,1467,alto
+robo de vehiculo,22,sábado,LIMA,-12.040908,-77.066193,1467,alto
+robo de vehiculo,0,viernes,BELLAVISTA,-12.056184,-77.094851,667,alto
+robo de vehiculo,20,jueves,LA VICTORIA,-12.080407,-77.009503,1429,alto
+microcomercializacion de drogas,22,lunes,SAN JUAN DE MIRAFLORES,-12.154092,-76.976831,667,alto
+microcomercializacion de drogas,0,domingo,INDEPENDENCIA,-11.97915,-77.04548,900,alto
+microcomercializacion de drogas,2,sábado,CALLAO,-12.019435,-77.094763,1267,alto
+microcomercializacion de drogas,22,jueves,VILLA MARIA DEL TRIUNFO,-12.156361,-76.95851,967,alto
+microcomercializacion de drogas,0,domingo,LIMA,-12.051675,-77.024901,1467,alto
+microcomercializacion de drogas,2,lunes,SAN JUAN DE LURIGANCHO,-12.017662,-77.009472,2172,alto
+microcomercializacion de drogas,23,domingo,ATE,-12.074573,-76.979673,1350,alto
+microcomercializacion de drogas,1,sábado,SAN JUAN DE LURIGANCHO,-12.027465,-77.015211,2172,alto
+microcomercializacion de drogas,23,jueves,COMAS,-11.956183,-77.051293,1233,alto
+microcomercializacion de drogas,0,domingo,LIMA,-12.060967,-77.005778,1467,alto
+microcomercializacion de drogas,22,lunes,LIMA,-12.056066,-77.030857,1467,alto
+microcomercializacion de drogas,0,domingo,ANCON,-11.779932,-77.169365,258,alto
+microcomercializacion de drogas,2,sábado,ATE,-12.0108,-76.8238,1350,alto
+microcomercializacion de drogas,22,jueves,SAN JUAN DE LURIGANCHO,-12.014009,-76.984512,2172,alto
+microcomercializacion de drogas,0,domingo,SAN JUAN DE MIRAFLORES,-12.162848,-76.961988,667,alto
+microcomercializacion de drogas,2,lunes,SAN MARTIN DE PORRES,-12.026038,-77.064851,1545,alto
+microcomercializacion de drogas,23,domingo,BREÑA,-12.056278,-77.043667,675,alto
+microcomercializacion de drogas,1,sábado,LA VICTORIA,-12.066666,-77.007161,1429,alto
+microcomercializacion de drogas,23,jueves,VILLA MARIA DEL TRIUNFO,-12.219153,-76.920011,967,alto
+microcomercializacion de drogas,0,domingo,COMAS,-11.911144,-77.045089,1233,alto
+microcomercializacion de drogas,22,lunes,COMAS,-11.955391,-77.040077,1233,alto
+microcomercializacion de drogas,0,domingo,VILLA EL SALVADOR,-12.202576,-76.948362,1033,alto
+microcomercializacion de drogas,2,sábado,SAN MARTIN DE PORRES,-12.027142,-77.048436,1545,alto
+microcomercializacion de drogas,22,jueves,VILLA MARIA DEL TRIUNFO,-12.199455,-76.927283,967,alto
+microcomercializacion de drogas,0,domingo,VILLA MARIA DEL TRIUNFO,-12.211977,-76.904982,967,alto
+microcomercializacion de drogas,2,lunes,VILLA MARIA DEL TRIUNFO,-12.212058,-76.903268,967,alto
+microcomercializacion de drogas,23,domingo,VILLA MARIA DEL TRIUNFO,-12.168755,-76.92242,967,alto
+microcomercializacion de drogas,1,sábado,VENTANILLA,-11.845456,-77.137833,667,alto
+microcomercializacion de drogas,23,jueves,LURIN,-12.272951,-76.870452,425,alto
+microcomercializacion de drogas,0,domingo,LURIN,-12.276284,-76.870173,425,alto
+microcomercializacion de drogas,22,lunes,LIMA,-12.050527,-77.01651,1467,alto
+microcomercializacion de drogas,0,domingo,LIMA,-12.044797,-77.013085,1467,alto
+microcomercializacion de drogas,2,sábado,CALLAO,-12.021659,-77.137183,1267,alto
+microcomercializacion de drogas,22,jueves,VILLA EL SALVADOR,-12.240895,-76.91263,1033,alto
+microcomercializacion de drogas,0,domingo,ANCON,-11.817981,-77.137153,258,alto
+microcomercializacion de drogas,2,lunes,VILLA MARIA DEL TRIUNFO,-12.165445,-76.947298,967,alto
+microcomercializacion de drogas,23,domingo,JESUS MARIA,-12.080266,-77.054333,408,alto
+microcomercializacion de drogas,1,sábado,SAN JUAN DE LURIGANCHO,-11.961977,-77.003938,2172,alto
+microcomercializacion de drogas,23,jueves,SAN MARTIN DE PORRES,-11.989193,-77.106141,1545,alto
+microcomercializacion de drogas,0,domingo,SAN MARTIN DE PORRES,-11.983757,-77.09955,1545,alto
+microcomercializacion de drogas,22,lunes,LOS OLIVOS,-11.936818,-77.072306,1000,alto
+microcomercializacion de drogas,0,domingo,CALLAO,-12.021659,-77.137183,1267,alto
+microcomercializacion de drogas,2,sábado,SAN JUAN DE MIRAFLORES,-12.189087,-76.963056,667,alto
+microcomercializacion de drogas,22,jueves,BARRANCO,-12.144659,-77.022978,342,alto
+microcomercializacion de drogas,0,domingo,LA VICTORIA,-12.059203,-77.026856,1429,alto
+microcomercializacion de drogas,2,lunes,CALLAO,-11.939594,-77.131807,1267,alto
+microcomercializacion de drogas,23,domingo,ANCON,-11.780806,-77.161764,258,alto
+microcomercializacion de drogas,1,sábado,SAN MARTIN DE PORRES,-12.032491,-77.05728,1545,alto
+microcomercializacion de drogas,23,jueves,VILLA MARIA DEL TRIUNFO,-12.200156,-76.92807,967,alto
+microcomercializacion de drogas,0,domingo,VILLA MARIA DEL TRIUNFO,-12.192917,-76.922401,967,alto
+microcomercializacion de drogas,22,lunes,LIMA,-12.049325,-77.01594,1467,alto
+microcomercializacion de drogas,0,domingo,CALLAO,-12.01878,-77.095383,1267,alto
+microcomercializacion de drogas,2,sábado,SAN JUAN DE MIRAFLORES,-12.173521,-76.971142,667,alto
+microcomercializacion de drogas,22,jueves,ATE,-12.025933,-76.918729,1350,alto
+microcomercializacion de drogas,0,domingo,PUENTE PIEDRA,-11.826299,-77.12124,717,alto
+microcomercializacion de drogas,2,lunes,SAN JUAN DE LURIGANCHO,-11.975312,-76.994596,2172,alto
+microcomercializacion de drogas,23,domingo,VILLA EL SALVADOR,-12.216334,-76.941527,1033,alto
+microcomercializacion de drogas,1,sábado,ANCON,-11.81253,-77.135968,258,alto
+microcomercializacion de drogas,23,jueves,SAN JUAN DE LURIGANCHO,-11.970522,-77.005603,2172,alto
+microcomercializacion de drogas,0,domingo,LIMA,-12.069522,-77.03541,1467,alto
+microcomercializacion de drogas,22,lunes,VILLA MARIA DEL TRIUNFO,-12.142983,-76.9478,967,alto
+microcomercializacion de drogas,0,domingo,CARABAYLLO,-11.896487,-77.047079,767,alto
+microcomercializacion de drogas,2,sábado,ATE,-12.010816,-76.823963,1350,alto
+microcomercializacion de drogas,22,jueves,VILLA MARIA DEL TRIUNFO,-12.209632,-76.912764,967,alto
+microcomercializacion de drogas,0,domingo,SANTIAGO DE SURCO,-12.148185,-77.016246,450,alto
+microcomercializacion de drogas,2,lunes,LIMA,-12.046851,-77.028547,1467,alto
+microcomercializacion de drogas,23,domingo,VILLA MARIA DEL TRIUNFO,-12.217718,-76.909181,967,alto
+microcomercializacion de drogas,1,sábado,LIMA,-12.054258,-77.019858,1467,alto
+microcomercializacion de drogas,23,jueves,SURQUILLO,-12.112357,-77.007586,700,alto
+microcomercializacion de drogas,0,domingo,SAN JUAN DE MIRAFLORES,-12.184717,-76.976905,667,alto
+microcomercializacion de drogas,22,lunes,ANCON,-11.779932,-77.169365,258,alto
+microcomercializacion de drogas,0,domingo,LIMA,-12.043441,-77.042978,1467,alto
+microcomercializacion de drogas,2,sábado,LOS OLIVOS,-11.938652,-77.072149,1000,alto
+microcomercializacion de drogas,22,jueves,VILLA MARIA DEL TRIUNFO,-12.208612,-76.921823,967,alto
+microcomercializacion de drogas,0,domingo,SAN JUAN DE LURIGANCHO,-11.98595,-77.00379,2172,alto
+microcomercializacion de drogas,2,lunes,SAN JUAN DE MIRAFLORES,-12.153888,-76.971954,667,alto
+microcomercializacion de drogas,23,domingo,VENTANILLA,-11.873593,-77.155065,667,alto
+microcomercializacion de drogas,1,sábado,SAN JUAN DE LURIGANCHO,-12.031427,-77.012302,2172,alto
+microcomercializacion de drogas,23,jueves,SAN JUAN DE LURIGANCHO,-11.963199,-77.006468,2172,alto
+microcomercializacion de drogas,0,domingo,SAN JUAN DE LURIGANCHO,-12.029241,-77.011524,2172,alto
+microcomercializacion de drogas,22,lunes,SAN JUAN DE LURIGANCHO,-11.937163,-76.964852,2172,alto
+microcomercializacion de drogas,0,domingo,SAN JUAN DE LURIGANCHO,-11.95615,-77.00954,2172,alto
+microcomercializacion de drogas,2,sábado,SAN JUAN DE LURIGANCHO,-12.015565,-76.988376,2172,alto
+microcomercializacion de drogas,22,jueves,PUCUSANA,-12.480797,-76.797303,667,alto
+microcomercializacion de drogas,0,domingo,SAN MARTIN DE PORRES,-12.034029,-77.084075,1545,alto
+microcomercializacion de drogas,2,lunes,VILLA EL SALVADOR,-12.225536,-76.92289,1033,alto
+microcomercializacion de drogas,23,domingo,VILLA EL SALVADOR,-12.20719,-76.940508,1033,alto
+microcomercializacion de drogas,1,sábado,VILLA EL SALVADOR,-12.231489,-76.932316,1033,alto
+microcomercializacion de drogas,23,jueves,VILLA EL SALVADOR,-12.200691,-76.956169,1033,alto
+microcomercializacion de drogas,0,domingo,LURIN,-12.240216,-76.908811,425,alto
+microcomercializacion de drogas,22,lunes,VENTANILLA,-11.845205,-77.152613,667,alto
+microcomercializacion de drogas,0,domingo,CARABAYLLO,-11.883252,-77.017689,767,alto
+microcomercializacion de drogas,2,sábado,SANTA EULALIA,-11.900484,-76.663296,667,alto
+microcomercializacion de drogas,22,jueves,LIMA,-12.048314,-77.017298,1467,alto
+microcomercializacion de drogas,0,domingo,VILLA MARIA DEL TRIUNFO,-12.156057,-76.953685,967,alto
+microcomercializacion de drogas,2,lunes,EL AGUSTINO,-12.02713,-76.986782,1067,alto
+microcomercializacion de drogas,23,domingo,COMAS,-11.941627,-77.055124,1233,alto
+microcomercializacion de drogas,1,sábado,LIMA,-12.054479,-77.066862,1467,alto
+microcomercializacion de drogas,23,jueves,LOS OLIVOS,-11.992952,-77.067842,1000,alto
+microcomercializacion de drogas,0,domingo,ANCON,-11.779932,-77.169365,258,alto
+microcomercializacion de drogas,22,lunes,LA VICTORIA,-12.065747,-77.027275,1429,alto
+microcomercializacion de drogas,0,domingo,LOS OLIVOS,-11.97374,-77.072562,1000,alto
+microcomercializacion de drogas,2,sábado,VILLA MARIA DEL TRIUNFO,-12.156163,-76.951157,967,alto
+microcomercializacion de drogas,22,jueves,SAN MARTIN DE PORRES,-11.99629,-77.086419,1545,alto
+microcomercializacion de drogas,0,domingo,LOS OLIVOS,-12.008992,-77.065639,1000,alto
+microcomercializacion de drogas,2,lunes,LA VICTORIA,-12.063696,-77.019783,1429,alto
+microcomercializacion de drogas,23,domingo,CALLAO,-12.055914,-77.134762,1267,alto
+microcomercializacion de drogas,1,sábado,LIMA,-12.065971,-77.036063,1467,alto
+microcomercializacion de drogas,23,jueves,SAN JUAN DE MIRAFLORES,-12.165621,-76.963624,667,alto
+microcomercializacion de drogas,0,domingo,CALLAO,-12.052411,-77.092519,1267,alto
+estafa,21,lunes,SAN MARTIN DE PORRES,-12.025275,-77.065374,541,bajo
+estafa,22,viernes,SANTIAGO DE SURCO,-12.137584,-76.999139,157,bajo
+estafa,0,sábado,COMAS,-11.922765,-77.054144,432,bajo
+estafa,22,domingo,COMAS,-11.914269,-77.032301,432,bajo
+estafa,19,sábado,PUENTE PIEDRA,-11.845116,-77.083572,251,bajo
+estafa,20,lunes,LIMA,-12.054655,-77.026745,513,bajo
+estafa,22,viernes,JESUS MARIA,-12.074587,-77.041627,143,bajo
+estafa,20,sábado,LIMA,-12.049323,-77.072259,513,bajo
+estafa,22,domingo,LIMA,-12.077186,-77.032408,513,bajo
+estafa,8,sábado,CHORRILLOS,-12.173422,-77.021413,327,bajo
+estafa,21,lunes,VENTANILLA,-11.875526,-77.123836,233,bajo
+estafa,22,viernes,CHORRILLOS,-12.174331,-77.001677,327,bajo
+estafa,0,sábado,MIRAFLORES,-12.119151,-77.03885,187,bajo
+estafa,22,domingo,LIMA,-12.048906,-77.059694,513,bajo
+estafa,19,sábado,SANTIAGO DE SURCO,-12.13118,-76.985707,157,bajo
+estafa,20,lunes,SANTA ANITA,-12.040968,-76.958877,265,bajo
+estafa,22,viernes,RIMAC,-12.031262,-77.028394,385,bajo
+estafa,20,sábado,MIRAFLORES,-12.116672,-77.011362,187,bajo
+estafa,22,domingo,SAN BORJA,-12.095478,-76.995076,111,bajo
+estafa,8,sábado,LIMA,-12.051674,-77.011827,513,bajo
+estafa,21,lunes,SAN BORJA,-12.083646,-76.991845,111,bajo
+estafa,22,viernes,SAN JUAN DE MIRAFLORES,-12.160412,-76.97597,233,bajo
+estafa,0,sábado,SANTIAGO DE SURCO,-12.160214,-76.994126,157,bajo
+estafa,22,domingo,SAN BORJA,-12.103321,-76.995054,111,bajo
+estafa,19,sábado,SANTIAGO DE SURCO,-12.13149,-76.998666,157,bajo
+estafa,20,lunes,SAN LUIS,-12.079335,-76.994163,178,bajo
+estafa,22,viernes,CARMEN DE LA LEGUA REYNOSO,-12.042862,-77.084641,233,bajo
+estafa,20,sábado,SAN JUAN DE LURIGANCHO,-12.035894,-77.013194,760,bajo
+estafa,22,domingo,SAN MARTIN DE PORRES,-12.030881,-77.084262,541,bajo
+estafa,8,sábado,LURIGANCHO,-12.018061,-76.920381,286,bajo
+estafa,21,lunes,SAN MARTIN DE PORRES,-12.030487,-77.048236,541,bajo
+estafa,22,viernes,SAN MARTIN DE PORRES,-12.015899,-77.054844,541,bajo
+estafa,0,sábado,LOS OLIVOS,-12.00927,-77.075222,350,bajo
+estafa,22,domingo,SAN MARTIN DE PORRES,-12.036312,-77.04677,541,bajo
+estafa,19,sábado,PUENTE PIEDRA,-11.839659,-77.10358,251,bajo
+estafa,20,lunes,LOS OLIVOS,-11.987293,-77.069372,350,bajo
+estafa,22,viernes,SAN MARTIN DE PORRES,-12.012676,-77.086255,541,bajo
+estafa,20,sábado,LOS OLIVOS,-12.009167,-77.071091,350,bajo
+estafa,22,domingo,SAN MARTIN DE PORRES,-12.02439,-77.074587,541,bajo
+estafa,8,sábado,LA MOLINA,-12.109488,-76.942701,90,bajo
+estafa,21,lunes,LA MOLINA,-12.0999,-76.941103,90,bajo
+estafa,22,viernes,LOS OLIVOS,-11.978644,-77.067172,350,bajo
+estafa,0,sábado,CALLAO,-12.052151,-77.134134,443,bajo
+estafa,22,domingo,SAN MARTIN DE PORRES,-11.981516,-77.096895,541,bajo
+estafa,19,sábado,VENTANILLA,-11.823397,-77.132418,233,bajo
+estafa,20,lunes,ATE,-12.019363,-76.877266,473,bajo
+estafa,22,viernes,CALLAO,-12.020793,-77.095142,443,bajo
+estafa,20,sábado,SAN JUAN DE LURIGANCHO,-11.948114,-76.980818,760,bajo
+estafa,22,domingo,SAN JUAN DE LURIGANCHO,-11.982426,-76.988271,760,bajo
+estafa,8,sábado,VILLA MARIA DEL TRIUNFO,-12.161877,-76.953663,338,bajo
+estafa,21,lunes,SAN MIGUEL,-12.081589,-77.095985,172,bajo
+estafa,22,viernes,RIMAC,-12.031844,-77.035163,385,bajo
+estafa,0,sábado,VILLA EL SALVADOR,-12.199384,-76.935762,362,bajo
+estafa,22,domingo,SAN JUAN DE MIRAFLORES,-12.183127,-76.959037,233,bajo
+estafa,19,sábado,CHORRILLOS,-12.173001,-77.024963,327,bajo
+estafa,20,lunes,SAN MIGUEL,-12.077326,-77.093381,172,bajo
+estafa,22,viernes,VILLA EL SALVADOR,-12.189391,-76.942264,362,bajo
+estafa,20,sábado,BREÑA,-12.058188,-77.052704,236,bajo
+estafa,22,domingo,CIENEGUILLA,-12.07009,-76.753864,82,bajo
+estafa,8,sábado,SURQUILLO,-12.115321,-77.000065,245,bajo
+estafa,21,lunes,LA VICTORIA,-12.071409,-77.02182,500,bajo
+estafa,22,viernes,LOS OLIVOS,-11.962863,-77.06983,350,bajo
+estafa,0,sábado,SAN JUAN DE LURIGANCHO,-11.946912,-76.988174,760,bajo
+estafa,22,domingo,MIRAFLORES,-12.119195,-77.03453,187,bajo
+estafa,19,sábado,VILLA EL SALVADOR,-12.210453,-76.933808,362,bajo
+estafa,20,lunes,SANTIAGO DE SURCO,-12.083943,-76.976602,157,bajo
+estafa,22,viernes,LOS OLIVOS,-12.00542,-77.069773,350,bajo
+estafa,20,sábado,LIMA,-12.056026,-77.084423,513,bajo
+estafa,22,domingo,SANTA ANITA,-12.049361,-76.979376,265,bajo
+estafa,8,sábado,CARABAYLLO,-11.894658,-77.044117,268,bajo
