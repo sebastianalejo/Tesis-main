@@ -6,8 +6,10 @@ import { riskDotColor } from '../components/maps/riskColors'
 import { CRIME_TYPES, DISTRICTS } from '../data/sampleIncidents'
 import { getGoogleMapsApiKey } from '../firebase/client'
 import { useCrimeIncidentsForMap, type MapPoint } from '../hooks/useCrimeIncidentsForMap'
+import { PdfExportButton } from '../components/PdfExportButton'
 
 type RiskLevel = 'bajo' | 'medio' | 'alto'
+export type Stats = Record<RiskLevel, number>
 
 const RISK_LEVELS: RiskLevel[] = ['alto', 'medio', 'bajo']
 const RISK_LABELS: Record<RiskLevel, string> = { alto: 'Alto', medio: 'Medio', bajo: 'Bajo' }
@@ -92,14 +94,20 @@ export function MapPage() {
   }, [allPoints, activeRisks, crimeFilter, districtFilter, hourRange])
 
   // ── Estadísticas ──────────────────────────────────────────────
-  const stats = useMemo(() => {
-    const s: Record<RiskLevel, number> = { bajo: 0, medio: 0, alto: 0 }
+  const stats: Stats = useMemo(() => {
+    const s = { bajo: 0, medio: 0, alto: 0 }
     points.forEach((p) => {
       const r = p.riskLevel?.toLowerCase() as RiskLevel
       if (r && s[r] !== undefined) s[r]++
     })
     return s
   }, [points])
+
+  // ── Etiquetas para filtros ─────────────────────────────────────
+  const riskLabels = [...activeRisks].sort().join(', ')
+  const hourLabel = HOUR_LABELS[hourRange]
+  const crimeLabel = crimeFilter
+  const districtLabel = districtFilter
 
   return (
     <div className="flex h-full flex-col gap-0 lg:flex-row">
@@ -248,9 +256,9 @@ export function MapPage() {
       </aside>
 
       {/* ── Mapa ─────────────────────────────────────────────── */}
-      <div className="flex flex-1 flex-col">
+      <div className="flex flex-1 flex-col overflow-y-auto">
         {/* Barra superior */}
-        <div className="flex flex-wrap items-center gap-3 border-b border-slate-200 bg-white px-4 py-2.5">
+        <div className="flex flex-wrap items-center gap-3 border-b border-slate-200 bg-white px-4 py-2.5 shrink-0">
           <MapPin className="size-4 shrink-0 text-teal-600" />
           <span className="text-sm font-semibold text-slate-900">Mapa de riesgo criminal</span>
           <span className="text-xs text-slate-400">Lima Metropolitana</span>
@@ -266,24 +274,39 @@ export function MapPage() {
 
         {/* Errores */}
         {error && !loading && (
-          <div className="m-4 rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-800">
+          <div className="m-4 rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-800 shrink-0">
             {error}
           </div>
         )}
 
         {/* Sin datos */}
         {!loading && !error && allPoints.length === 0 && (
-          <div className="m-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+          <div className="m-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900 shrink-0">
             Sin registros con coordenadas. Ve a <strong>«Importar datos»</strong> y carga los datos de muestra.
           </div>
         )}
 
         {/* Mapa */}
-        <div className="flex-1 min-h-[500px]">
+        <div className="h-[500px] shrink-0">
           {mapsKey
             ? <RiskMapGoogle apiKey={mapsKey} points={points} />
             : <RiskMapLeaflet points={points} />}
         </div>
+
+        {/* Tendencia + Exportar PDF */}
+        {!loading && points.length > 0 && (
+          <div className="shrink-0 border-t border-slate-200 px-4 py-4">
+            <PdfExportButton
+              points={points}
+              allPointsCount={allPoints.length}
+              stats={stats}
+              crimeFilter={crimeLabel}
+              districtFilter={districtLabel}
+              hourLabel={hourLabel}
+              riskLabels={riskLabels}
+            />
+          </div>
+        )}
       </div>
     </div>
   )
