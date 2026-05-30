@@ -1,79 +1,15 @@
 import { useMemo, useRef, useState, useEffect } from 'react'
 import { riskDotColor } from './maps/riskColors'
+import { computeChartData, RANGE_CONFIG } from '../utils/chartData'
 import type { PointWithDate } from '../utils/simulateDates'
+import type { TimeRange } from '../utils/chartData'
 
-export type TimeRange = '7d' | '1m' | '3m' | '6m'
+export type { TimeRange }
 
 interface Props {
   points: PointWithDate[]
   range: TimeRange
   height?: number
-}
-
-const RANGE_CONFIG: Record<TimeRange, { label: string; days: number }> = {
-  '7d': { label: '7 días', days: 7 },
-  '1m': { label: '1 mes', days: 30 },
-  '3m': { label: '3 meses', days: 90 },
-  '6m': { label: '6 meses', days: 180 },
-}
-
-interface Bucket {
-  name: string
-  sortKey: string
-  bajo: number
-  medio: number
-  alto: number
-}
-
-function getBucketKey(date: Date, range: TimeRange): string {
-  const d = new Date(date)
-  d.setHours(0, 0, 0, 0)
-  if (range === '7d' || range === '1m') return d.toISOString().slice(0, 10)
-  const day = d.getDay()
-  const diff = d.getDate() - day + (day === 0 ? -6 : 1)
-  const monday = new Date(d.setDate(diff))
-  monday.setHours(0, 0, 0, 0)
-  return monday.toISOString().slice(0, 10)
-}
-
-function bucketLabel(date: Date, range: TimeRange): string {
-  const days = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb']
-  if (range === '7d') return days[date.getDay()]
-  if (range === '1m') return `${date.getDate()}/${date.getMonth() + 1}`
-  const startOfMonth = new Date(date.getFullYear(), date.getMonth(), 1)
-  const week = Math.ceil((date.getDate() + startOfMonth.getDay()) / 7)
-  return `S${week}`
-}
-
-function computeChartData(points: PointWithDate[], range: TimeRange) {
-  const buckets: Record<string, Bucket> = {}
-
-  for (const p of points) {
-    if (!p.date) continue
-    const key = getBucketKey(p.date, range)
-    if (!buckets[key]) {
-      buckets[key] = {
-        name: bucketLabel(p.date, range),
-        sortKey: key,
-        bajo: 0,
-        medio: 0,
-        alto: 0,
-      }
-    }
-    const rl = p.riskLevel?.toLowerCase()
-    if (rl === 'bajo' || rl === 'medio' || rl === 'alto') {
-      buckets[key][rl]++
-    }
-  }
-
-  const sorted = Object.values(buckets).sort((a, b) => a.sortKey.localeCompare(b.sortKey))
-  const firstHalf = sorted.slice(0, Math.floor(sorted.length / 2))
-  const secondHalf = sorted.slice(Math.floor(sorted.length / 2))
-  const firstTotal = firstHalf.reduce((s, b) => s + b.bajo + b.medio + b.alto, 0)
-  const secondTotal = secondHalf.reduce((s, b) => s + b.bajo + b.medio + b.alto, 0)
-  const change = firstTotal > 0 ? ((secondTotal - firstTotal) / firstTotal) * 100 : 0
-
-  return { chartData: sorted, totalChange: change }
 }
 
 const BAR_COLORS: Record<string, string> = {
@@ -215,7 +151,6 @@ export function IncidentTrendChart({ points, range, height = 240 }: Props) {
           <g>
             {chartData.map((d, i) => {
               const x = toX(i)
-              const labelWidth = barW >= 20 ? 60 : 40
               const skip = barCount > 12 && i % Math.ceil(barCount / 12) !== 0
               return (
                 <text
